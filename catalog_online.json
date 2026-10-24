@@ -1,0 +1,6588 @@
+[
+  {
+    "musicId": 1,
+    "title": "迷星叫",
+    "subtitle": "Official Track #0001",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "長谷川大介(SUPA LOVE)",
+    "arranger": "長谷川大介(SUPA LOVE)",
+    "bpm": 190.0,
+    "duration": 94.736842,
+    "jacket": "jkt_001_100001",
+    "difficulties": {
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 408,
+        "noteCounts": {
+          "tap": 119,
+          "flick": 0,
+          "trace": 0,
+          "long": 27
+        },
+        "rawFile": "raw/0001_01_normal.json",
+        "otonoteFile": "otonote/music_0001_normal.json",
+        "gameChartFile": "ournotes_game/chart_0001_normal.json"
+      },
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.5,
+        "officialFullCombo": 682,
+        "noteCounts": {
+          "tap": 161,
+          "flick": 28,
+          "trace": 0,
+          "long": 84
+        },
+        "rawFile": "raw/0001_02_hard.json",
+        "otonoteFile": "otonote/music_0001_hard.json",
+        "gameChartFile": "ournotes_game/chart_0001_hard.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.0,
+        "officialFullCombo": 768,
+        "noteCounts": {
+          "tap": 301,
+          "flick": 65,
+          "trace": 0,
+          "long": 83
+        },
+        "rawFile": "raw/0001_03_expert.json",
+        "otonoteFile": "otonote/music_0001_expert.json",
+        "gameChartFile": "ournotes_game/chart_0001_expert.json"
+      },
+      "easy": {
+        "level": 9,
+        "displayLevel": 9.0,
+        "officialFullCombo": 342,
+        "noteCounts": {
+          "tap": 54,
+          "flick": 0,
+          "trace": 0,
+          "long": 19
+        },
+        "rawFile": "raw/0001_00_easy.json",
+        "otonoteFile": "otonote/music_0001_easy.json",
+        "gameChartFile": "ournotes_game/chart_0001_easy.json"
+      }
+    },
+    "previewStartTime": 48.53,
+    "previewEndTime": 76.51,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0001.zip",
+    "packageSize": 1665467
+  },
+  {
+    "musicId": 2,
+    "title": "壹雫空",
+    "subtitle": "壱雫空",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "hisakuni(SUPA LOVE)",
+    "arranger": "hisakuni(SUPA LOVE)",
+    "bpm": 204.0,
+    "duration": 89.411765,
+    "jacket": "jkt_001_100002",
+    "difficulties": {
+      "expert": {
+        "level": 27,
+        "displayLevel": 27.5,
+        "officialFullCombo": 809,
+        "noteCounts": {
+          "tap": 447,
+          "flick": 60,
+          "trace": 0,
+          "long": 93
+        },
+        "rawFile": "raw/0002_03_expert.json",
+        "otonoteFile": "otonote/music_0002_expert.json",
+        "gameChartFile": "ournotes_game/chart_0002_expert.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 219,
+        "noteCounts": {
+          "tap": 63,
+          "flick": 0,
+          "trace": 0,
+          "long": 17
+        },
+        "rawFile": "raw/0002_00_easy.json",
+        "otonoteFile": "otonote/music_0002_easy.json",
+        "gameChartFile": "ournotes_game/chart_0002_easy.json"
+      },
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 364,
+        "noteCounts": {
+          "tap": 146,
+          "flick": 0,
+          "trace": 0,
+          "long": 36
+        },
+        "rawFile": "raw/0002_01_normal.json",
+        "otonoteFile": "otonote/music_0002_normal.json",
+        "gameChartFile": "ournotes_game/chart_0002_normal.json"
+      },
+      "hard": {
+        "level": 21,
+        "displayLevel": 21.0,
+        "officialFullCombo": 572,
+        "noteCounts": {
+          "tap": 270,
+          "flick": 17,
+          "trace": 0,
+          "long": 68
+        },
+        "rawFile": "raw/0002_02_hard.json",
+        "otonoteFile": "otonote/music_0002_hard.json",
+        "gameChartFile": "ournotes_game/chart_0002_hard.json"
+      }
+    },
+    "previewStartTime": 26.81,
+    "previewEndTime": 51.16,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0002.zip",
+    "packageSize": 1756848
+  },
+  {
+    "musicId": 3,
+    "title": "碧天伴走",
+    "subtitle": "Official Track #0003",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "木下龍平(SUPA LOVE)",
+    "arranger": "木下龍平(SUPA LOVE)",
+    "bpm": 192.0,
+    "duration": 117.1875,
+    "jacket": "jkt_001_100003",
+    "difficulties": {
+      "expert": {
+        "level": 27,
+        "displayLevel": 27.0,
+        "officialFullCombo": 1012,
+        "noteCounts": {
+          "tap": 486,
+          "flick": 36,
+          "trace": 0,
+          "long": 103
+        },
+        "rawFile": "raw/0003_03_expert.json",
+        "otonoteFile": "otonote/music_0003_expert.json",
+        "gameChartFile": "ournotes_game/chart_0003_expert.json"
+      },
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 631,
+        "noteCounts": {
+          "tap": 325,
+          "flick": 13,
+          "trace": 0,
+          "long": 63
+        },
+        "rawFile": "raw/0003_02_hard.json",
+        "otonoteFile": "otonote/music_0003_hard.json",
+        "gameChartFile": "ournotes_game/chart_0003_hard.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 342,
+        "noteCounts": {
+          "tap": 67,
+          "flick": 0,
+          "trace": 0,
+          "long": 26
+        },
+        "rawFile": "raw/0003_00_easy.json",
+        "otonoteFile": "otonote/music_0003_easy.json",
+        "gameChartFile": "ournotes_game/chart_0003_easy.json"
+      },
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 413,
+        "noteCounts": {
+          "tap": 156,
+          "flick": 0,
+          "trace": 0,
+          "long": 33
+        },
+        "rawFile": "raw/0003_01_normal.json",
+        "otonoteFile": "otonote/music_0003_normal.json",
+        "gameChartFile": "ournotes_game/chart_0003_normal.json"
+      }
+    },
+    "previewStartTime": 39.64,
+    "previewEndTime": 73.39,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0003.zip",
+    "packageSize": 2200397
+  },
+  {
+    "musicId": 4,
+    "title": "影色舞",
+    "subtitle": "Silhouette Dance",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "木下龍平(SUPA LOVE)",
+    "arranger": "木下龍平(SUPA LOVE)",
+    "bpm": 166.0,
+    "duration": 90.180723,
+    "jacket": "jkt_001_100004",
+    "difficulties": {
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 670,
+        "noteCounts": {
+          "tap": 164,
+          "flick": 10,
+          "trace": 0,
+          "long": 104
+        },
+        "rawFile": "raw/0004_02_hard.json",
+        "otonoteFile": "otonote/music_0004_hard.json",
+        "gameChartFile": "ournotes_game/chart_0004_hard.json"
+      },
+      "normal": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 362,
+        "noteCounts": {
+          "tap": 85,
+          "flick": 0,
+          "trace": 0,
+          "long": 46
+        },
+        "rawFile": "raw/0004_01_normal.json",
+        "otonoteFile": "otonote/music_0004_normal.json",
+        "gameChartFile": "ournotes_game/chart_0004_normal.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 255,
+        "noteCounts": {
+          "tap": 42,
+          "flick": 0,
+          "trace": 0,
+          "long": 32
+        },
+        "rawFile": "raw/0004_00_easy.json",
+        "otonoteFile": "otonote/music_0004_easy.json",
+        "gameChartFile": "ournotes_game/chart_0004_easy.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.7,
+        "officialFullCombo": 720,
+        "noteCounts": {
+          "tap": 314,
+          "flick": 47,
+          "trace": 0,
+          "long": 99
+        },
+        "rawFile": "raw/0004_03_expert.json",
+        "otonoteFile": "otonote/music_0004_expert.json",
+        "gameChartFile": "ournotes_game/chart_0004_expert.json"
+      }
+    },
+    "previewStartTime": 52.0,
+    "previewEndTime": 78.28,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0004.zip",
+    "packageSize": 1789242
+  },
+  {
+    "musicId": 5,
+    "title": "潜在表明",
+    "subtitle": "Official Track #0005",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "鈴木裕明(SUPA LOVE)",
+    "arranger": "鈴木裕明(SUPA LOVE)",
+    "bpm": 135.0,
+    "duration": 106.666667,
+    "jacket": "jkt_001_100005",
+    "difficulties": {
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 617,
+        "noteCounts": {
+          "tap": 137,
+          "flick": 11,
+          "trace": 0,
+          "long": 96
+        },
+        "rawFile": "raw/0005_02_hard.json",
+        "otonoteFile": "otonote/music_0005_hard.json",
+        "gameChartFile": "ournotes_game/chart_0005_hard.json"
+      },
+      "normal": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 546,
+        "noteCounts": {
+          "tap": 95,
+          "flick": 3,
+          "trace": 0,
+          "long": 81
+        },
+        "rawFile": "raw/0005_01_normal.json",
+        "otonoteFile": "otonote/music_0005_normal.json",
+        "gameChartFile": "ournotes_game/chart_0005_normal.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 203,
+        "noteCounts": {
+          "tap": 32,
+          "flick": 0,
+          "trace": 0,
+          "long": 12
+        },
+        "rawFile": "raw/0005_00_easy.json",
+        "otonoteFile": "otonote/music_0005_easy.json",
+        "gameChartFile": "ournotes_game/chart_0005_easy.json"
+      },
+      "expert": {
+        "level": 23,
+        "displayLevel": 23.5,
+        "officialFullCombo": 728,
+        "noteCounts": {
+          "tap": 261,
+          "flick": 19,
+          "trace": 0,
+          "long": 79
+        },
+        "rawFile": "raw/0005_03_expert.json",
+        "otonoteFile": "otonote/music_0005_expert.json",
+        "gameChartFile": "ournotes_game/chart_0005_expert.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 35.46,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0005.zip",
+    "packageSize": 1857039
+  },
+  {
+    "musicId": 6,
+    "title": "音一会",
+    "subtitle": "Official Track #0006",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "尾崎豪 (SUPA LOVE)",
+    "arranger": "尾崎豪 (SUPA LOVE)",
+    "bpm": 200.0,
+    "duration": 121.2,
+    "jacket": "jkt_001_100006",
+    "difficulties": {
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 569,
+        "noteCounts": {
+          "tap": 115,
+          "flick": 4,
+          "trace": 0,
+          "long": 59
+        },
+        "rawFile": "raw/0006_01_normal.json",
+        "otonoteFile": "otonote/music_0006_normal.json",
+        "gameChartFile": "ournotes_game/chart_0006_normal.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 422,
+        "noteCounts": {
+          "tap": 55,
+          "flick": 0,
+          "trace": 0,
+          "long": 31
+        },
+        "rawFile": "raw/0006_00_easy.json",
+        "otonoteFile": "otonote/music_0006_easy.json",
+        "gameChartFile": "ournotes_game/chart_0006_easy.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.0,
+        "officialFullCombo": 1207,
+        "noteCounts": {
+          "tap": 468,
+          "flick": 27,
+          "trace": 0,
+          "long": 164
+        },
+        "rawFile": "raw/0006_03_expert.json",
+        "otonoteFile": "otonote/music_0006_expert.json",
+        "gameChartFile": "ournotes_game/chart_0006_expert.json"
+      },
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 831,
+        "noteCounts": {
+          "tap": 247,
+          "flick": 27,
+          "trace": 0,
+          "long": 132
+        },
+        "rawFile": "raw/0006_02_hard.json",
+        "otonoteFile": "otonote/music_0006_hard.json",
+        "gameChartFile": "ournotes_game/chart_0006_hard.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 40.85,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0006.zip",
+    "packageSize": 2363603
+  },
+  {
+    "musicId": 7,
+    "title": "春日影(MyGO!!!!! ver.)",
+    "subtitle": "春日影 (MyGO!!!!! ver.)",
+    "band": "MyGO!!!!!",
+    "lyricist": "織田あすか（Elements Garden）",
+    "composer": "藤田淳平（Elements Garden）",
+    "arranger": "藤田淳平（Elements Garden）",
+    "bpm": 97.0,
+    "duration": 118.762887,
+    "jacket": "jkt_001_100007",
+    "difficulties": {
+      "expert": {
+        "level": 20,
+        "displayLevel": 20.5,
+        "officialFullCombo": 610,
+        "noteCounts": {
+          "tap": 259,
+          "flick": 6,
+          "trace": 0,
+          "long": 91
+        },
+        "rawFile": "raw/0007_03_expert.json",
+        "otonoteFile": "otonote/music_0007_expert.json",
+        "gameChartFile": "ournotes_game/chart_0007_expert.json"
+      },
+      "normal": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 327,
+        "noteCounts": {
+          "tap": 110,
+          "flick": 0,
+          "trace": 0,
+          "long": 53
+        },
+        "rawFile": "raw/0007_01_normal.json",
+        "otonoteFile": "otonote/music_0007_normal.json",
+        "gameChartFile": "ournotes_game/chart_0007_normal.json"
+      },
+      "hard": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 448,
+        "noteCounts": {
+          "tap": 148,
+          "flick": 2,
+          "trace": 0,
+          "long": 87
+        },
+        "rawFile": "raw/0007_02_hard.json",
+        "otonoteFile": "otonote/music_0007_hard.json",
+        "gameChartFile": "ournotes_game/chart_0007_hard.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 261,
+        "noteCounts": {
+          "tap": 38,
+          "flick": 0,
+          "trace": 0,
+          "long": 37
+        },
+        "rawFile": "raw/0007_00_easy.json",
+        "otonoteFile": "otonote/music_0007_easy.json",
+        "gameChartFile": "ournotes_game/chart_0007_easy.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 33.82,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0007.zip",
+    "packageSize": 2056120
+  },
+  {
+    "musicId": 8,
+    "title": "诗超绊",
+    "subtitle": "詩超絆",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "横地健太(SUPA LOVE)",
+    "arranger": "横地健太(SUPA LOVE)",
+    "bpm": 190.0,
+    "duration": 121.716838,
+    "jacket": "jkt_001_100008",
+    "difficulties": {
+      "easy": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 678,
+        "noteCounts": {
+          "tap": 142,
+          "flick": 0,
+          "trace": 0,
+          "long": 51
+        },
+        "rawFile": "raw/0008_00_easy.json",
+        "otonoteFile": "otonote/music_0008_easy.json",
+        "gameChartFile": "ournotes_game/chart_0008_easy.json"
+      },
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 868,
+        "noteCounts": {
+          "tap": 302,
+          "flick": 9,
+          "trace": 0,
+          "long": 83
+        },
+        "rawFile": "raw/0008_02_hard.json",
+        "otonoteFile": "otonote/music_0008_hard.json",
+        "gameChartFile": "ournotes_game/chart_0008_hard.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.5,
+        "officialFullCombo": 1027,
+        "noteCounts": {
+          "tap": 363,
+          "flick": 124,
+          "trace": 0,
+          "long": 98
+        },
+        "rawFile": "raw/0008_03_expert.json",
+        "otonoteFile": "otonote/music_0008_expert.json",
+        "gameChartFile": "ournotes_game/chart_0008_expert.json"
+      },
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 798,
+        "noteCounts": {
+          "tap": 189,
+          "flick": 0,
+          "trace": 0,
+          "long": 77
+        },
+        "rawFile": "raw/0008_01_normal.json",
+        "otonoteFile": "otonote/music_0008_normal.json",
+        "gameChartFile": "ournotes_game/chart_0008_normal.json"
+      }
+    },
+    "previewStartTime": 39.19,
+    "previewEndTime": 81.52,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0008.zip",
+    "packageSize": 2441362
+  },
+  {
+    "musicId": 9,
+    "title": "迷路日日",
+    "subtitle": "迷路日々",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "松坂康司(SUPA LOVE)",
+    "arranger": "松坂康司(SUPA LOVE)",
+    "bpm": 260.0,
+    "duration": 136.615385,
+    "jacket": "jkt_001_100009",
+    "difficulties": {
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 638,
+        "noteCounts": {
+          "tap": 62,
+          "flick": 0,
+          "trace": 0,
+          "long": 48
+        },
+        "rawFile": "raw/0009_00_easy.json",
+        "otonoteFile": "otonote/music_0009_easy.json",
+        "gameChartFile": "ournotes_game/chart_0009_easy.json"
+      },
+      "expert": {
+        "level": 27,
+        "displayLevel": 27.5,
+        "officialFullCombo": 1322,
+        "noteCounts": {
+          "tap": 469,
+          "flick": 57,
+          "trace": 0,
+          "long": 133
+        },
+        "rawFile": "raw/0009_03_expert.json",
+        "otonoteFile": "otonote/music_0009_expert.json",
+        "gameChartFile": "ournotes_game/chart_0009_expert.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 1262,
+        "noteCounts": {
+          "tap": 195,
+          "flick": 21,
+          "trace": 0,
+          "long": 128
+        },
+        "rawFile": "raw/0009_02_hard.json",
+        "otonoteFile": "otonote/music_0009_hard.json",
+        "gameChartFile": "ournotes_game/chart_0009_hard.json"
+      },
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 1019,
+        "noteCounts": {
+          "tap": 92,
+          "flick": 0,
+          "trace": 0,
+          "long": 60
+        },
+        "rawFile": "raw/0009_01_normal.json",
+        "otonoteFile": "otonote/music_0009_normal.json",
+        "gameChartFile": "ournotes_game/chart_0009_normal.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 33.05,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0009.zip",
+    "packageSize": 2506178
+  },
+  {
+    "musicId": 10,
+    "title": "无路矢",
+    "subtitle": "無路矢",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "庄司夏葵(SUPA LOVE)",
+    "arranger": "庄司夏葵(SUPA LOVE)",
+    "bpm": 120.0,
+    "duration": 94.0,
+    "jacket": "jkt_001_100010",
+    "difficulties": {
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 380,
+        "noteCounts": {
+          "tap": 151,
+          "flick": 24,
+          "trace": 0,
+          "long": 55
+        },
+        "rawFile": "raw/0010_02_hard.json",
+        "otonoteFile": "otonote/music_0010_hard.json",
+        "gameChartFile": "ournotes_game/chart_0010_hard.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 264,
+        "noteCounts": {
+          "tap": 84,
+          "flick": 0,
+          "trace": 0,
+          "long": 25
+        },
+        "rawFile": "raw/0010_00_easy.json",
+        "otonoteFile": "otonote/music_0010_easy.json",
+        "gameChartFile": "ournotes_game/chart_0010_easy.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 372,
+        "noteCounts": {
+          "tap": 110,
+          "flick": 0,
+          "trace": 0,
+          "long": 50
+        },
+        "rawFile": "raw/0010_01_normal.json",
+        "otonoteFile": "otonote/music_0010_normal.json",
+        "gameChartFile": "ournotes_game/chart_0010_normal.json"
+      },
+      "expert": {
+        "level": 23,
+        "displayLevel": 23.5,
+        "officialFullCombo": 564,
+        "noteCounts": {
+          "tap": 183,
+          "flick": 29,
+          "trace": 0,
+          "long": 47
+        },
+        "rawFile": "raw/0010_03_expert.json",
+        "otonoteFile": "otonote/music_0010_expert.json",
+        "gameChartFile": "ournotes_game/chart_0010_expert.json"
+      }
+    },
+    "previewStartTime": 29.57,
+    "previewEndTime": 62.25,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0010.zip",
+    "packageSize": 1814634
+  },
+  {
+    "musicId": 11,
+    "title": "名无声",
+    "subtitle": "名無声",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "金崎真士(SUPA LOVE)",
+    "arranger": "金崎真士(SUPA LOVE)",
+    "bpm": 190.0,
+    "duration": 112.105263,
+    "jacket": "jkt_001_100011",
+    "difficulties": {
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.0,
+        "officialFullCombo": 911,
+        "noteCounts": {
+          "tap": 239,
+          "flick": 67,
+          "trace": 0,
+          "long": 115
+        },
+        "rawFile": "raw/0011_03_expert.json",
+        "otonoteFile": "otonote/music_0011_expert.json",
+        "gameChartFile": "ournotes_game/chart_0011_expert.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 379,
+        "noteCounts": {
+          "tap": 39,
+          "flick": 0,
+          "trace": 0,
+          "long": 31
+        },
+        "rawFile": "raw/0011_00_easy.json",
+        "otonoteFile": "otonote/music_0011_easy.json",
+        "gameChartFile": "ournotes_game/chart_0011_easy.json"
+      },
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.0,
+        "officialFullCombo": 747,
+        "noteCounts": {
+          "tap": 223,
+          "flick": 45,
+          "trace": 0,
+          "long": 75
+        },
+        "rawFile": "raw/0011_02_hard.json",
+        "otonoteFile": "otonote/music_0011_hard.json",
+        "gameChartFile": "ournotes_game/chart_0011_hard.json"
+      },
+      "normal": {
+        "level": 10,
+        "displayLevel": 10.0,
+        "officialFullCombo": 569,
+        "noteCounts": {
+          "tap": 79,
+          "flick": 0,
+          "trace": 0,
+          "long": 44
+        },
+        "rawFile": "raw/0011_01_normal.json",
+        "otonoteFile": "otonote/music_0011_normal.json",
+        "gameChartFile": "ournotes_game/chart_0011_normal.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 30.0,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0011.zip",
+    "packageSize": 1924162
+  },
+  {
+    "musicId": 12,
+    "title": "步拾道",
+    "subtitle": "歩拾道",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "庄司夏葵(SUPA LOVE)",
+    "arranger": "庄司夏葵(SUPA LOVE)",
+    "bpm": 130.0,
+    "duration": 110.769231,
+    "jacket": "jkt_001_100012",
+    "difficulties": {
+      "normal": {
+        "level": 16,
+        "displayLevel": 16.0,
+        "officialFullCombo": 530,
+        "noteCounts": {
+          "tap": 161,
+          "flick": 8,
+          "trace": 0,
+          "long": 96
+        },
+        "rawFile": "raw/0012_01_normal.json",
+        "otonoteFile": "otonote/music_0012_normal.json",
+        "gameChartFile": "ournotes_game/chart_0012_normal.json"
+      },
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 628,
+        "noteCounts": {
+          "tap": 238,
+          "flick": 9,
+          "trace": 0,
+          "long": 112
+        },
+        "rawFile": "raw/0012_02_hard.json",
+        "otonoteFile": "otonote/music_0012_hard.json",
+        "gameChartFile": "ournotes_game/chart_0012_hard.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 264,
+        "noteCounts": {
+          "tap": 61,
+          "flick": 0,
+          "trace": 0,
+          "long": 24
+        },
+        "rawFile": "raw/0012_00_easy.json",
+        "otonoteFile": "otonote/music_0012_easy.json",
+        "gameChartFile": "ournotes_game/chart_0012_easy.json"
+      },
+      "expert": {
+        "level": 23,
+        "displayLevel": 23.0,
+        "officialFullCombo": 638,
+        "noteCounts": {
+          "tap": 271,
+          "flick": 42,
+          "trace": 0,
+          "long": 79
+        },
+        "rawFile": "raw/0012_03_expert.json",
+        "otonoteFile": "otonote/music_0012_expert.json",
+        "gameChartFile": "ournotes_game/chart_0012_expert.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 34.16,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0012.zip",
+    "packageSize": 2191878
+  },
+  {
+    "musicId": 13,
+    "title": "端程山",
+    "subtitle": "Official Track #0013",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "トミタカズキ(SUPA LOVE)",
+    "arranger": "トミタカズキ(SUPA LOVE)",
+    "bpm": 181.0,
+    "duration": 98.627264,
+    "jacket": "jkt_001_100013",
+    "difficulties": {
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 527,
+        "noteCounts": {
+          "tap": 66,
+          "flick": 0,
+          "trace": 0,
+          "long": 62
+        },
+        "rawFile": "raw/0013_01_normal.json",
+        "otonoteFile": "otonote/music_0013_normal.json",
+        "gameChartFile": "ournotes_game/chart_0013_normal.json"
+      },
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 608,
+        "noteCounts": {
+          "tap": 172,
+          "flick": 3,
+          "trace": 0,
+          "long": 60
+        },
+        "rawFile": "raw/0013_02_hard.json",
+        "otonoteFile": "otonote/music_0013_hard.json",
+        "gameChartFile": "ournotes_game/chart_0013_hard.json"
+      },
+      "easy": {
+        "level": 10,
+        "displayLevel": 10.0,
+        "officialFullCombo": 408,
+        "noteCounts": {
+          "tap": 49,
+          "flick": 0,
+          "trace": 0,
+          "long": 37
+        },
+        "rawFile": "raw/0013_00_easy.json",
+        "otonoteFile": "otonote/music_0013_easy.json",
+        "gameChartFile": "ournotes_game/chart_0013_easy.json"
+      },
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.5,
+        "officialFullCombo": 768,
+        "noteCounts": {
+          "tap": 323,
+          "flick": 8,
+          "trace": 0,
+          "long": 67
+        },
+        "rawFile": "raw/0013_03_expert.json",
+        "otonoteFile": "otonote/music_0013_expert.json",
+        "gameChartFile": "ournotes_game/chart_0013_expert.json"
+      }
+    },
+    "previewStartTime": 46.94,
+    "previewEndTime": 78.94,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0013.zip",
+    "packageSize": 1842957
+  },
+  {
+    "musicId": 14,
+    "title": "砂寸奏",
+    "subtitle": "Official Track #0014",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "槇島隆人 (SUPA LOVE)",
+    "arranger": "槇島隆人 (SUPA LOVE)",
+    "bpm": 182.0,
+    "duration": 108.832418,
+    "jacket": "jkt_001_100014",
+    "difficulties": {
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.0,
+        "officialFullCombo": 532,
+        "noteCounts": {
+          "tap": 278,
+          "flick": 43,
+          "trace": 0,
+          "long": 63
+        },
+        "rawFile": "raw/0014_02_hard.json",
+        "otonoteFile": "otonote/music_0014_hard.json",
+        "gameChartFile": "ournotes_game/chart_0014_hard.json"
+      },
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.5,
+        "officialFullCombo": 725,
+        "noteCounts": {
+          "tap": 422,
+          "flick": 68,
+          "trace": 0,
+          "long": 69
+        },
+        "rawFile": "raw/0014_03_expert.json",
+        "otonoteFile": "otonote/music_0014_expert.json",
+        "gameChartFile": "ournotes_game/chart_0014_expert.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 209,
+        "noteCounts": {
+          "tap": 59,
+          "flick": 0,
+          "trace": 0,
+          "long": 20
+        },
+        "rawFile": "raw/0014_00_easy.json",
+        "otonoteFile": "otonote/music_0014_easy.json",
+        "gameChartFile": "ournotes_game/chart_0014_easy.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 323,
+        "noteCounts": {
+          "tap": 130,
+          "flick": 7,
+          "trace": 0,
+          "long": 46
+        },
+        "rawFile": "raw/0014_01_normal.json",
+        "otonoteFile": "otonote/music_0014_normal.json",
+        "gameChartFile": "ournotes_game/chart_0014_normal.json"
+      }
+    },
+    "previewStartTime": 52.04,
+    "previewEndTime": 88.01,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0014.zip",
+    "packageSize": 2105404
+  },
+  {
+    "musicId": 15,
+    "title": "焚音打",
+    "subtitle": "Official Track #0015",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "長谷川大介(SUPA LOVE)",
+    "arranger": "長谷川大介(SUPA LOVE)",
+    "bpm": 190.0,
+    "duration": 170.526316,
+    "jacket": "jkt_001_100015",
+    "difficulties": {
+      "normal": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 974,
+        "noteCounts": {
+          "tap": 262,
+          "flick": 0,
+          "trace": 0,
+          "long": 76
+        },
+        "rawFile": "raw/0015_01_normal.json",
+        "otonoteFile": "otonote/music_0015_normal.json",
+        "gameChartFile": "ournotes_game/chart_0015_normal.json"
+      },
+      "expert": {
+        "level": 29,
+        "displayLevel": 29.0,
+        "officialFullCombo": 1777,
+        "noteCounts": {
+          "tap": 880,
+          "flick": 165,
+          "trace": 0,
+          "long": 133
+        },
+        "rawFile": "raw/0015_03_expert.json",
+        "otonoteFile": "otonote/music_0015_expert.json",
+        "gameChartFile": "ournotes_game/chart_0015_expert.json"
+      },
+      "hard": {
+        "level": 23,
+        "displayLevel": 23.0,
+        "officialFullCombo": 1175,
+        "noteCounts": {
+          "tap": 461,
+          "flick": 32,
+          "trace": 0,
+          "long": 132
+        },
+        "rawFile": "raw/0015_02_hard.json",
+        "otonoteFile": "otonote/music_0015_hard.json",
+        "gameChartFile": "ournotes_game/chart_0015_hard.json"
+      },
+      "easy": {
+        "level": 10,
+        "displayLevel": 10.0,
+        "officialFullCombo": 516,
+        "noteCounts": {
+          "tap": 131,
+          "flick": 0,
+          "trace": 0,
+          "long": 37
+        },
+        "rawFile": "raw/0015_00_easy.json",
+        "otonoteFile": "otonote/music_0015_easy.json",
+        "gameChartFile": "ournotes_game/chart_0015_easy.json"
+      }
+    },
+    "previewStartTime": 68.88,
+    "previewEndTime": 106.0,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0015.zip",
+    "packageSize": 2976752
+  },
+  {
+    "musicId": 16,
+    "title": "聿日笺秋",
+    "subtitle": "聿日箋秋",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "トミタカズキ(SUPA LOVE)",
+    "arranger": "トミタカズキ(SUPA LOVE)",
+    "bpm": 182.0,
+    "duration": 93.406593,
+    "jacket": "jkt_001_100016",
+    "difficulties": {
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 359,
+        "noteCounts": {
+          "tap": 43,
+          "flick": 0,
+          "trace": 0,
+          "long": 42
+        },
+        "rawFile": "raw/0016_00_easy.json",
+        "otonoteFile": "otonote/music_0016_easy.json",
+        "gameChartFile": "ournotes_game/chart_0016_easy.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.4,
+        "officialFullCombo": 742,
+        "noteCounts": {
+          "tap": 312,
+          "flick": 38,
+          "trace": 0,
+          "long": 74
+        },
+        "rawFile": "raw/0016_03_expert.json",
+        "otonoteFile": "otonote/music_0016_expert.json",
+        "gameChartFile": "ournotes_game/chart_0016_expert.json"
+      },
+      "normal": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 456,
+        "noteCounts": {
+          "tap": 71,
+          "flick": 0,
+          "trace": 0,
+          "long": 50
+        },
+        "rawFile": "raw/0016_01_normal.json",
+        "otonoteFile": "otonote/music_0016_normal.json",
+        "gameChartFile": "ournotes_game/chart_0016_normal.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 590,
+        "noteCounts": {
+          "tap": 240,
+          "flick": 12,
+          "trace": 0,
+          "long": 60
+        },
+        "rawFile": "raw/0016_02_hard.json",
+        "otonoteFile": "otonote/music_0016_hard.json",
+        "gameChartFile": "ournotes_game/chart_0016_hard.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 32.43,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0016.zip",
+    "packageSize": 1790412
+  },
+  {
+    "musicId": 17,
+    "title": "证命赞歌",
+    "subtitle": "証命讃歌",
+    "band": "MyGO!!!!!",
+    "lyricist": "田邊駿一",
+    "composer": "田邊駿一",
+    "arranger": "高橋涼(SUPA LOVE)",
+    "bpm": 210.0,
+    "duration": 113.571429,
+    "jacket": "jkt_001_100017",
+    "difficulties": {
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 301,
+        "noteCounts": {
+          "tap": 108,
+          "flick": 0,
+          "trace": 0,
+          "long": 19
+        },
+        "rawFile": "raw/0017_00_easy.json",
+        "otonoteFile": "otonote/music_0017_easy.json",
+        "gameChartFile": "ournotes_game/chart_0017_easy.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.5,
+        "officialFullCombo": 1111,
+        "noteCounts": {
+          "tap": 464,
+          "flick": 45,
+          "trace": 0,
+          "long": 154
+        },
+        "rawFile": "raw/0017_03_expert.json",
+        "otonoteFile": "otonote/music_0017_expert.json",
+        "gameChartFile": "ournotes_game/chart_0017_expert.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 720,
+        "noteCounts": {
+          "tap": 122,
+          "flick": 0,
+          "trace": 0,
+          "long": 89
+        },
+        "rawFile": "raw/0017_01_normal.json",
+        "otonoteFile": "otonote/music_0017_normal.json",
+        "gameChartFile": "ournotes_game/chart_0017_normal.json"
+      },
+      "hard": {
+        "level": 22,
+        "displayLevel": 22.0,
+        "officialFullCombo": 752,
+        "noteCounts": {
+          "tap": 256,
+          "flick": 2,
+          "trace": 0,
+          "long": 139
+        },
+        "rawFile": "raw/0017_02_hard.json",
+        "otonoteFile": "otonote/music_0017_hard.json",
+        "gameChartFile": "ournotes_game/chart_0017_hard.json"
+      }
+    },
+    "previewStartTime": 104.47,
+    "previewEndTime": 117.61,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0017.zip",
+    "packageSize": 2327807
+  },
+  {
+    "musicId": 18,
+    "title": "ないものねだり",
+    "subtitle": "Official Track #0018",
+    "band": "MyGO!!!!!",
+    "lyricist": "谷口 鮪",
+    "composer": "谷口 鮪",
+    "arranger": "植木建象、神田ジョン(from PENGUIN RESEARCH)",
+    "bpm": 175.0,
+    "duration": 118.971429,
+    "jacket": "jkt_001_100018",
+    "difficulties": {
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.5,
+        "officialFullCombo": 879,
+        "noteCounts": {
+          "tap": 393,
+          "flick": 45,
+          "trace": 0,
+          "long": 91
+        },
+        "rawFile": "raw/0018_03_expert.json",
+        "otonoteFile": "otonote/music_0018_expert.json",
+        "gameChartFile": "ournotes_game/chart_0018_expert.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 518,
+        "noteCounts": {
+          "tap": 98,
+          "flick": 0,
+          "trace": 0,
+          "long": 33
+        },
+        "rawFile": "raw/0018_01_normal.json",
+        "otonoteFile": "otonote/music_0018_normal.json",
+        "gameChartFile": "ournotes_game/chart_0018_normal.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 323,
+        "noteCounts": {
+          "tap": 69,
+          "flick": 0,
+          "trace": 0,
+          "long": 23
+        },
+        "rawFile": "raw/0018_00_easy.json",
+        "otonoteFile": "otonote/music_0018_easy.json",
+        "gameChartFile": "ournotes_game/chart_0018_easy.json"
+      },
+      "hard": {
+        "level": 21,
+        "displayLevel": 21.0,
+        "officialFullCombo": 600,
+        "noteCounts": {
+          "tap": 227,
+          "flick": 23,
+          "trace": 0,
+          "long": 47
+        },
+        "rawFile": "raw/0018_02_hard.json",
+        "otonoteFile": "otonote/music_0018_hard.json",
+        "gameChartFile": "ournotes_game/chart_0018_hard.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 25.04,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0018.zip",
+    "packageSize": 2098649
+  },
+  {
+    "musicId": 19,
+    "title": "シャルル",
+    "subtitle": "Official Track #0019",
+    "band": "MyGO!!!!!",
+    "lyricist": "バルーン",
+    "composer": "バルーン",
+    "arranger": "植木建象、神田ジョン(from PENGUIN RESEARCH)",
+    "bpm": 145.0,
+    "duration": 95.586207,
+    "jacket": "jkt_001_100019",
+    "difficulties": {
+      "expert": {
+        "level": 21,
+        "displayLevel": 21.0,
+        "officialFullCombo": 573,
+        "noteCounts": {
+          "tap": 211,
+          "flick": 24,
+          "trace": 0,
+          "long": 102
+        },
+        "rawFile": "raw/0019_03_expert.json",
+        "otonoteFile": "otonote/music_0019_expert.json",
+        "gameChartFile": "ournotes_game/chart_0019_expert.json"
+      },
+      "hard": {
+        "level": 16,
+        "displayLevel": 16.0,
+        "officialFullCombo": 533,
+        "noteCounts": {
+          "tap": 129,
+          "flick": 18,
+          "trace": 0,
+          "long": 106
+        },
+        "rawFile": "raw/0019_02_hard.json",
+        "otonoteFile": "otonote/music_0019_hard.json",
+        "gameChartFile": "ournotes_game/chart_0019_hard.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 215,
+        "noteCounts": {
+          "tap": 49,
+          "flick": 0,
+          "trace": 0,
+          "long": 24
+        },
+        "rawFile": "raw/0019_00_easy.json",
+        "otonoteFile": "otonote/music_0019_easy.json",
+        "gameChartFile": "ournotes_game/chart_0019_easy.json"
+      },
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 376,
+        "noteCounts": {
+          "tap": 103,
+          "flick": 0,
+          "trace": 0,
+          "long": 53
+        },
+        "rawFile": "raw/0019_01_normal.json",
+        "otonoteFile": "otonote/music_0019_normal.json",
+        "gameChartFile": "ournotes_game/chart_0019_normal.json"
+      }
+    },
+    "previewStartTime": 56.63,
+    "previewEndTime": 83.93,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0019.zip",
+    "packageSize": 1722655
+  },
+  {
+    "musicId": 20,
+    "title": "空に歌えば",
+    "subtitle": "Official Track #0020",
+    "band": "MyGO!!!!!",
+    "lyricist": "秋田　ひろむ",
+    "composer": "秋田　ひろむ",
+    "arranger": "植木建象、神田ジョン(from PENGUIN RESEARCH)",
+    "bpm": 204.0,
+    "duration": 89.117647,
+    "jacket": "jkt_001_100020",
+    "difficulties": {
+      "normal": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 334,
+        "noteCounts": {
+          "tap": 123,
+          "flick": 0,
+          "trace": 0,
+          "long": 39
+        },
+        "rawFile": "raw/0020_01_normal.json",
+        "otonoteFile": "otonote/music_0020_normal.json",
+        "gameChartFile": "ournotes_game/chart_0020_normal.json"
+      },
+      "hard": {
+        "level": 22,
+        "displayLevel": 22.0,
+        "officialFullCombo": 597,
+        "noteCounts": {
+          "tap": 163,
+          "flick": 21,
+          "trace": 0,
+          "long": 115
+        },
+        "rawFile": "raw/0020_02_hard.json",
+        "otonoteFile": "otonote/music_0020_hard.json",
+        "gameChartFile": "ournotes_game/chart_0020_hard.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 262,
+        "noteCounts": {
+          "tap": 35,
+          "flick": 0,
+          "trace": 0,
+          "long": 26
+        },
+        "rawFile": "raw/0020_00_easy.json",
+        "otonoteFile": "otonote/music_0020_easy.json",
+        "gameChartFile": "ournotes_game/chart_0020_easy.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.5,
+        "officialFullCombo": 670,
+        "noteCounts": {
+          "tap": 286,
+          "flick": 25,
+          "trace": 0,
+          "long": 94
+        },
+        "rawFile": "raw/0020_03_expert.json",
+        "otonoteFile": "otonote/music_0020_expert.json",
+        "gameChartFile": "ournotes_game/chart_0020_expert.json"
+      }
+    },
+    "previewStartTime": 7.31,
+    "previewEndTime": 34.56,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0020.zip",
+    "packageSize": 1773399
+  },
+  {
+    "musicId": 21,
+    "title": "青春コンプレックス",
+    "subtitle": "Official Track #0021",
+    "band": "MyGO!!!!!",
+    "lyricist": "樋口愛",
+    "composer": "音羽-otoha-",
+    "arranger": "植木建象、神田ジョン(from PENGUIN RESEARCH)",
+    "bpm": 190.0,
+    "duration": 139.421053,
+    "jacket": "jkt_001_100021",
+    "difficulties": {
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.0,
+        "officialFullCombo": 1100,
+        "noteCounts": {
+          "tap": 434,
+          "flick": 100,
+          "trace": 0,
+          "long": 159
+        },
+        "rawFile": "raw/0021_03_expert.json",
+        "otonoteFile": "otonote/music_0021_expert.json",
+        "gameChartFile": "ournotes_game/chart_0021_expert.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 515,
+        "noteCounts": {
+          "tap": 79,
+          "flick": 0,
+          "trace": 0,
+          "long": 49
+        },
+        "rawFile": "raw/0021_00_easy.json",
+        "otonoteFile": "otonote/music_0021_easy.json",
+        "gameChartFile": "ournotes_game/chart_0021_easy.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 538,
+        "noteCounts": {
+          "tap": 214,
+          "flick": 0,
+          "trace": 0,
+          "long": 62
+        },
+        "rawFile": "raw/0021_01_normal.json",
+        "otonoteFile": "otonote/music_0021_normal.json",
+        "gameChartFile": "ournotes_game/chart_0021_normal.json"
+      },
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.0,
+        "officialFullCombo": 857,
+        "noteCounts": {
+          "tap": 295,
+          "flick": 14,
+          "trace": 0,
+          "long": 135
+        },
+        "rawFile": "raw/0021_02_hard.json",
+        "otonoteFile": "otonote/music_0021_hard.json",
+        "gameChartFile": "ournotes_game/chart_0021_hard.json"
+      }
+    },
+    "previewStartTime": 79.03,
+    "previewEndTime": 109.04,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0021.zip",
+    "packageSize": 2531250
+  },
+  {
+    "musicId": 26,
+    "title": "Ave Mujica",
+    "subtitle": "Official Track #0026",
+    "band": "Ave Mujica",
+    "lyricist": "上松範康（Elements Garden）、織田あすか（Elements Garden）",
+    "composer": "上松範康（Elements Garden）",
+    "arranger": "藤間仁（Elements Garden）",
+    "bpm": 222.0,
+    "duration": 114.735665,
+    "jacket": "jkt_002_100026",
+    "difficulties": {
+      "hard": {
+        "level": 21,
+        "displayLevel": 21.0,
+        "officialFullCombo": 766,
+        "noteCounts": {
+          "tap": 239,
+          "flick": 6,
+          "trace": 0,
+          "long": 89
+        },
+        "rawFile": "raw/0026_02_hard.json",
+        "otonoteFile": "otonote/music_0026_hard.json",
+        "gameChartFile": "ournotes_game/chart_0026_hard.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 257,
+        "noteCounts": {
+          "tap": 76,
+          "flick": 0,
+          "trace": 0,
+          "long": 22
+        },
+        "rawFile": "raw/0026_00_easy.json",
+        "otonoteFile": "otonote/music_0026_easy.json",
+        "gameChartFile": "ournotes_game/chart_0026_easy.json"
+      },
+      "expert": {
+        "level": 27,
+        "displayLevel": 27.5,
+        "officialFullCombo": 1018,
+        "noteCounts": {
+          "tap": 444,
+          "flick": 53,
+          "trace": 0,
+          "long": 90
+        },
+        "rawFile": "raw/0026_03_expert.json",
+        "otonoteFile": "otonote/music_0026_expert.json",
+        "gameChartFile": "ournotes_game/chart_0026_expert.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 575,
+        "noteCounts": {
+          "tap": 129,
+          "flick": 0,
+          "trace": 0,
+          "long": 67
+        },
+        "rawFile": "raw/0026_01_normal.json",
+        "otonoteFile": "otonote/music_0026_normal.json",
+        "gameChartFile": "ournotes_game/chart_0026_normal.json"
+      }
+    },
+    "previewStartTime": 93.24,
+    "previewEndTime": 115.35,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0026.zip",
+    "packageSize": 2344526
+  },
+  {
+    "musicId": 27,
+    "title": "KiLLKiSS",
+    "subtitle": "Official Track #0027",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "長谷川大介(SUPA LOVE)、Diggy-MO’",
+    "arranger": "長谷川大介(SUPA LOVE)",
+    "bpm": 200.0,
+    "duration": 93.3,
+    "jacket": "jkt_002_100027",
+    "difficulties": {
+      "expert": {
+        "level": 28,
+        "displayLevel": 28.0,
+        "officialFullCombo": 749,
+        "noteCounts": {
+          "tap": 385,
+          "flick": 104,
+          "trace": 0,
+          "long": 67
+        },
+        "rawFile": "raw/0027_03_expert.json",
+        "otonoteFile": "otonote/music_0027_expert.json",
+        "gameChartFile": "ournotes_game/chart_0027_expert.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 339,
+        "noteCounts": {
+          "tap": 61,
+          "flick": 0,
+          "trace": 0,
+          "long": 26
+        },
+        "rawFile": "raw/0027_00_easy.json",
+        "otonoteFile": "otonote/music_0027_easy.json",
+        "gameChartFile": "ournotes_game/chart_0027_easy.json"
+      },
+      "hard": {
+        "level": 21,
+        "displayLevel": 21.0,
+        "officialFullCombo": 647,
+        "noteCounts": {
+          "tap": 207,
+          "flick": 7,
+          "trace": 0,
+          "long": 82
+        },
+        "rawFile": "raw/0027_02_hard.json",
+        "otonoteFile": "otonote/music_0027_hard.json",
+        "gameChartFile": "ournotes_game/chart_0027_hard.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 497,
+        "noteCounts": {
+          "tap": 114,
+          "flick": 1,
+          "trace": 0,
+          "long": 40
+        },
+        "rawFile": "raw/0027_01_normal.json",
+        "otonoteFile": "otonote/music_0027_normal.json",
+        "gameChartFile": "ournotes_game/chart_0027_normal.json"
+      }
+    },
+    "previewStartTime": 59.97,
+    "previewEndTime": 97.09,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0027.zip",
+    "packageSize": 1880065
+  },
+  {
+    "musicId": 28,
+    "title": "Imprisoned XII",
+    "subtitle": "Official Track #0028",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "松坂康司(SUPA LOVE)、Diggy-MO’",
+    "arranger": "松坂康司(SUPA LOVE)",
+    "bpm": 158.0,
+    "duration": 92.278481,
+    "jacket": "jkt_002_100028",
+    "difficulties": {
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 520,
+        "noteCounts": {
+          "tap": 127,
+          "flick": 14,
+          "trace": 0,
+          "long": 47
+        },
+        "rawFile": "raw/0028_02_hard.json",
+        "otonoteFile": "otonote/music_0028_hard.json",
+        "gameChartFile": "ournotes_game/chart_0028_hard.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 307,
+        "noteCounts": {
+          "tap": 33,
+          "flick": 0,
+          "trace": 0,
+          "long": 34
+        },
+        "rawFile": "raw/0028_00_easy.json",
+        "otonoteFile": "otonote/music_0028_easy.json",
+        "gameChartFile": "ournotes_game/chart_0028_easy.json"
+      },
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 410,
+        "noteCounts": {
+          "tap": 73,
+          "flick": 0,
+          "trace": 0,
+          "long": 45
+        },
+        "rawFile": "raw/0028_01_normal.json",
+        "otonoteFile": "otonote/music_0028_normal.json",
+        "gameChartFile": "ournotes_game/chart_0028_normal.json"
+      },
+      "expert": {
+        "level": 22,
+        "displayLevel": 22.0,
+        "officialFullCombo": 536,
+        "noteCounts": {
+          "tap": 189,
+          "flick": 15,
+          "trace": 0,
+          "long": 41
+        },
+        "rawFile": "raw/0028_03_expert.json",
+        "otonoteFile": "otonote/music_0028_expert.json",
+        "gameChartFile": "ournotes_game/chart_0028_expert.json"
+      }
+    },
+    "previewStartTime": 57.57,
+    "previewEndTime": 86.98,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0028.zip",
+    "packageSize": 1761332
+  },
+  {
+    "musicId": 29,
+    "title": "Crucifix X",
+    "subtitle": "Official Track #0029",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "o-saka(SUPA LOVE)、Diggy-MO’",
+    "arranger": "o-saka(SUPA LOVE)",
+    "bpm": 103.0,
+    "duration": 105.728155,
+    "jacket": "jkt_002_100029",
+    "difficulties": {
+      "hard": {
+        "level": 16,
+        "displayLevel": 16.0,
+        "officialFullCombo": 422,
+        "noteCounts": {
+          "tap": 156,
+          "flick": 26,
+          "trace": 0,
+          "long": 66
+        },
+        "rawFile": "raw/0029_02_hard.json",
+        "otonoteFile": "otonote/music_0029_hard.json",
+        "gameChartFile": "ournotes_game/chart_0029_hard.json"
+      },
+      "normal": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 289,
+        "noteCounts": {
+          "tap": 87,
+          "flick": 0,
+          "trace": 0,
+          "long": 48
+        },
+        "rawFile": "raw/0029_01_normal.json",
+        "otonoteFile": "otonote/music_0029_normal.json",
+        "gameChartFile": "ournotes_game/chart_0029_normal.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 188,
+        "noteCounts": {
+          "tap": 46,
+          "flick": 0,
+          "trace": 0,
+          "long": 30
+        },
+        "rawFile": "raw/0029_00_easy.json",
+        "otonoteFile": "otonote/music_0029_easy.json",
+        "gameChartFile": "ournotes_game/chart_0029_easy.json"
+      },
+      "expert": {
+        "level": 23,
+        "displayLevel": 23.0,
+        "officialFullCombo": 626,
+        "noteCounts": {
+          "tap": 309,
+          "flick": 28,
+          "trace": 0,
+          "long": 73
+        },
+        "rawFile": "raw/0029_03_expert.json",
+        "otonoteFile": "otonote/music_0029_expert.json",
+        "gameChartFile": "ournotes_game/chart_0029_expert.json"
+      }
+    },
+    "previewStartTime": 68.93,
+    "previewEndTime": 102.8,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0029.zip",
+    "packageSize": 2105882
+  },
+  {
+    "musicId": 30,
+    "title": "八芒星之舞",
+    "subtitle": "八芒星ダンス",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "あらケン(SUPA LOVE)、Diggy-MO’",
+    "arranger": "あらケン(SUPA LOVE)",
+    "bpm": 159.0,
+    "duration": 102.621649,
+    "jacket": "jkt_002_100030",
+    "difficulties": {
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.5,
+        "officialFullCombo": 723,
+        "noteCounts": {
+          "tap": 408,
+          "flick": 62,
+          "trace": 0,
+          "long": 84
+        },
+        "rawFile": "raw/0030_03_expert.json",
+        "otonoteFile": "otonote/music_0030_expert.json",
+        "gameChartFile": "ournotes_game/chart_0030_expert.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 156,
+        "noteCounts": {
+          "tap": 87,
+          "flick": 0,
+          "trace": 0,
+          "long": 10
+        },
+        "rawFile": "raw/0030_00_easy.json",
+        "otonoteFile": "otonote/music_0030_easy.json",
+        "gameChartFile": "ournotes_game/chart_0030_easy.json"
+      },
+      "normal": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 291,
+        "noteCounts": {
+          "tap": 128,
+          "flick": 0,
+          "trace": 0,
+          "long": 36
+        },
+        "rawFile": "raw/0030_01_normal.json",
+        "otonoteFile": "otonote/music_0030_normal.json",
+        "gameChartFile": "ournotes_game/chart_0030_normal.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 531,
+        "noteCounts": {
+          "tap": 185,
+          "flick": 16,
+          "trace": 0,
+          "long": 85
+        },
+        "rawFile": "raw/0030_02_hard.json",
+        "otonoteFile": "otonote/music_0030_hard.json",
+        "gameChartFile": "ournotes_game/chart_0030_hard.json"
+      }
+    },
+    "previewStartTime": 40.59,
+    "previewEndTime": 75.81,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0030.zip",
+    "packageSize": 1990984
+  },
+  {
+    "musicId": 31,
+    "title": "颜",
+    "subtitle": "顔",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "木下龍平(SUPA LOVE)、Diggy-MO’",
+    "arranger": "木下龍平(SUPA LOVE)",
+    "bpm": 140.0,
+    "duration": 116.357143,
+    "jacket": "jkt_002_100031",
+    "difficulties": {
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.0,
+        "officialFullCombo": 767,
+        "noteCounts": {
+          "tap": 333,
+          "flick": 14,
+          "trace": 0,
+          "long": 128
+        },
+        "rawFile": "raw/0031_03_expert.json",
+        "otonoteFile": "otonote/music_0031_expert.json",
+        "gameChartFile": "ournotes_game/chart_0031_expert.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 265,
+        "noteCounts": {
+          "tap": 74,
+          "flick": 0,
+          "trace": 0,
+          "long": 28
+        },
+        "rawFile": "raw/0031_00_easy.json",
+        "otonoteFile": "otonote/music_0031_easy.json",
+        "gameChartFile": "ournotes_game/chart_0031_easy.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 538,
+        "noteCounts": {
+          "tap": 205,
+          "flick": 4,
+          "trace": 0,
+          "long": 84
+        },
+        "rawFile": "raw/0031_02_hard.json",
+        "otonoteFile": "otonote/music_0031_hard.json",
+        "gameChartFile": "ournotes_game/chart_0031_hard.json"
+      },
+      "normal": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 382,
+        "noteCounts": {
+          "tap": 106,
+          "flick": 0,
+          "trace": 0,
+          "long": 41
+        },
+        "rawFile": "raw/0031_01_normal.json",
+        "otonoteFile": "otonote/music_0031_normal.json",
+        "gameChartFile": "ournotes_game/chart_0031_normal.json"
+      }
+    },
+    "previewStartTime": 39.98,
+    "previewEndTime": 67.7,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0031.zip",
+    "packageSize": 2421349
+  },
+  {
+    "musicId": 32,
+    "title": "天球的Música",
+    "subtitle": "天球(そら)のMúsica",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "高橋涼(SUPA LOVE)、Diggy-MO’",
+    "arranger": "高橋涼(SUPA LOVE)",
+    "bpm": 184.0,
+    "duration": 133.602484,
+    "jacket": "jkt_002_100032",
+    "difficulties": {
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.5,
+        "officialFullCombo": 1229,
+        "noteCounts": {
+          "tap": 299,
+          "flick": 12,
+          "trace": 0,
+          "long": 99
+        },
+        "rawFile": "raw/0032_03_expert.json",
+        "otonoteFile": "otonote/music_0032_expert.json",
+        "gameChartFile": "ournotes_game/chart_0032_expert.json"
+      },
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 1023,
+        "noteCounts": {
+          "tap": 106,
+          "flick": 10,
+          "trace": 0,
+          "long": 100
+        },
+        "rawFile": "raw/0032_02_hard.json",
+        "otonoteFile": "otonote/music_0032_hard.json",
+        "gameChartFile": "ournotes_game/chart_0032_hard.json"
+      },
+      "normal": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 664,
+        "noteCounts": {
+          "tap": 90,
+          "flick": 0,
+          "trace": 0,
+          "long": 65
+        },
+        "rawFile": "raw/0032_01_normal.json",
+        "otonoteFile": "otonote/music_0032_normal.json",
+        "gameChartFile": "ournotes_game/chart_0032_normal.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.5,
+        "officialFullCombo": 549,
+        "noteCounts": {
+          "tap": 24,
+          "flick": 0,
+          "trace": 0,
+          "long": 52
+        },
+        "rawFile": "raw/0032_00_easy.json",
+        "otonoteFile": "otonote/music_0032_easy.json",
+        "gameChartFile": "ournotes_game/chart_0032_easy.json"
+      }
+    },
+    "previewStartTime": 78.84,
+    "previewEndTime": 118.87,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0032.zip",
+    "packageSize": 2664870
+  },
+  {
+    "musicId": 33,
+    "title": "Symbol I : △",
+    "subtitle": "Official Track #0033",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "長谷川大介(SUPA LOVE)、Diggy-MO’",
+    "arranger": "長谷川大介(SUPA LOVE)",
+    "bpm": 236.0,
+    "duration": 137.542373,
+    "jacket": "jkt_002_100033",
+    "difficulties": {
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 885,
+        "noteCounts": {
+          "tap": 140,
+          "flick": 0,
+          "trace": 0,
+          "long": 75
+        },
+        "rawFile": "raw/0033_01_normal.json",
+        "otonoteFile": "otonote/music_0033_normal.json",
+        "gameChartFile": "ournotes_game/chart_0033_normal.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.0,
+        "officialFullCombo": 1227,
+        "noteCounts": {
+          "tap": 477,
+          "flick": 79,
+          "trace": 0,
+          "long": 117
+        },
+        "rawFile": "raw/0033_03_expert.json",
+        "otonoteFile": "otonote/music_0033_expert.json",
+        "gameChartFile": "ournotes_game/chart_0033_expert.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 538,
+        "noteCounts": {
+          "tap": 73,
+          "flick": 0,
+          "trace": 0,
+          "long": 43
+        },
+        "rawFile": "raw/0033_00_easy.json",
+        "otonoteFile": "otonote/music_0033_easy.json",
+        "gameChartFile": "ournotes_game/chart_0033_easy.json"
+      },
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 1023,
+        "noteCounts": {
+          "tap": 215,
+          "flick": 40,
+          "trace": 0,
+          "long": 113
+        },
+        "rawFile": "raw/0033_02_hard.json",
+        "otonoteFile": "otonote/music_0033_hard.json",
+        "gameChartFile": "ournotes_game/chart_0033_hard.json"
+      }
+    },
+    "previewStartTime": 45.94,
+    "previewEndTime": 83.04,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0033.zip",
+    "packageSize": 2773517
+  },
+  {
+    "musicId": 34,
+    "title": "Symbol II : 🜁",
+    "subtitle": "Official Track #0034",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "高橋涼(SUPA LOVE)",
+    "arranger": "高橋涼(SUPA LOVE)",
+    "bpm": 197.0,
+    "duration": 154.720812,
+    "jacket": "jkt_002_100034",
+    "difficulties": {
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 304,
+        "noteCounts": {
+          "tap": 111,
+          "flick": 0,
+          "trace": 0,
+          "long": 25
+        },
+        "rawFile": "raw/0034_00_easy.json",
+        "otonoteFile": "otonote/music_0034_easy.json",
+        "gameChartFile": "ournotes_game/chart_0034_easy.json"
+      },
+      "normal": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 548,
+        "noteCounts": {
+          "tap": 134,
+          "flick": 10,
+          "trace": 0,
+          "long": 76
+        },
+        "rawFile": "raw/0034_01_normal.json",
+        "otonoteFile": "otonote/music_0034_normal.json",
+        "gameChartFile": "ournotes_game/chart_0034_normal.json"
+      },
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.5,
+        "officialFullCombo": 818,
+        "noteCounts": {
+          "tap": 304,
+          "flick": 44,
+          "trace": 0,
+          "long": 103
+        },
+        "rawFile": "raw/0034_02_hard.json",
+        "otonoteFile": "otonote/music_0034_hard.json",
+        "gameChartFile": "ournotes_game/chart_0034_hard.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.5,
+        "officialFullCombo": 1162,
+        "noteCounts": {
+          "tap": 582,
+          "flick": 71,
+          "trace": 0,
+          "long": 120
+        },
+        "rawFile": "raw/0034_03_expert.json",
+        "otonoteFile": "otonote/music_0034_expert.json",
+        "gameChartFile": "ournotes_game/chart_0034_expert.json"
+      }
+    },
+    "previewStartTime": 121.02,
+    "previewEndTime": 146.05,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0034.zip",
+    "packageSize": 2966733
+  },
+  {
+    "musicId": 35,
+    "title": "Symbol III : ▽",
+    "subtitle": "Official Track #0035",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "トミタカズキ(SUPA LOVE)、Diggy-MO'",
+    "arranger": "トミタカズキ(SUPA LOVE)",
+    "bpm": 95.0,
+    "duration": 100.421053,
+    "jacket": "jkt_002_100035",
+    "difficulties": {
+      "expert": {
+        "level": 21,
+        "displayLevel": 21.0,
+        "officialFullCombo": 456,
+        "noteCounts": {
+          "tap": 227,
+          "flick": 0,
+          "trace": 0,
+          "long": 62
+        },
+        "rawFile": "raw/0035_03_expert.json",
+        "otonoteFile": "otonote/music_0035_expert.json",
+        "gameChartFile": "ournotes_game/chart_0035_expert.json"
+      },
+      "easy": {
+        "level": 5,
+        "displayLevel": 5.0,
+        "officialFullCombo": 115,
+        "noteCounts": {
+          "tap": 45,
+          "flick": 0,
+          "trace": 0,
+          "long": 9
+        },
+        "rawFile": "raw/0035_00_easy.json",
+        "otonoteFile": "otonote/music_0035_easy.json",
+        "gameChartFile": "ournotes_game/chart_0035_easy.json"
+      },
+      "hard": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 319,
+        "noteCounts": {
+          "tap": 126,
+          "flick": 0,
+          "trace": 0,
+          "long": 47
+        },
+        "rawFile": "raw/0035_02_hard.json",
+        "otonoteFile": "otonote/music_0035_hard.json",
+        "gameChartFile": "ournotes_game/chart_0035_hard.json"
+      },
+      "normal": {
+        "level": 9,
+        "displayLevel": 9.0,
+        "officialFullCombo": 196,
+        "noteCounts": {
+          "tap": 66,
+          "flick": 0,
+          "trace": 0,
+          "long": 31
+        },
+        "rawFile": "raw/0035_01_normal.json",
+        "otonoteFile": "otonote/music_0035_normal.json",
+        "gameChartFile": "ournotes_game/chart_0035_normal.json"
+      }
+    },
+    "previewStartTime": 42.37,
+    "previewEndTime": 78.63,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0035.zip",
+    "packageSize": 1797322
+  },
+  {
+    "musicId": 36,
+    "title": "Symbol IV : 🜃",
+    "subtitle": "Official Track #0036",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "長谷川大介(SUPA LOVE)、Diggy-MO’",
+    "arranger": "長谷川大介(SUPA LOVE)",
+    "bpm": 148.0,
+    "duration": 123.420955,
+    "jacket": "jkt_002_100036",
+    "difficulties": {
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 436,
+        "noteCounts": {
+          "tap": 86,
+          "flick": 0,
+          "trace": 0,
+          "long": 38
+        },
+        "rawFile": "raw/0036_00_easy.json",
+        "otonoteFile": "otonote/music_0036_easy.json",
+        "gameChartFile": "ournotes_game/chart_0036_easy.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 702,
+        "noteCounts": {
+          "tap": 234,
+          "flick": 1,
+          "trace": 0,
+          "long": 60
+        },
+        "rawFile": "raw/0036_02_hard.json",
+        "otonoteFile": "otonote/music_0036_hard.json",
+        "gameChartFile": "ournotes_game/chart_0036_hard.json"
+      },
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.0,
+        "officialFullCombo": 896,
+        "noteCounts": {
+          "tap": 413,
+          "flick": 20,
+          "trace": 0,
+          "long": 89
+        },
+        "rawFile": "raw/0036_03_expert.json",
+        "otonoteFile": "otonote/music_0036_expert.json",
+        "gameChartFile": "ournotes_game/chart_0036_expert.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 610,
+        "noteCounts": {
+          "tap": 116,
+          "flick": 0,
+          "trace": 0,
+          "long": 54
+        },
+        "rawFile": "raw/0036_01_normal.json",
+        "otonoteFile": "otonote/music_0036_normal.json",
+        "gameChartFile": "ournotes_game/chart_0036_normal.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 29.57,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0036.zip",
+    "packageSize": 2144187
+  },
+  {
+    "musicId": 37,
+    "title": "Ether",
+    "subtitle": "Official Track #0037",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "長谷川大介(SUPA LOVE)、Diggy-MO’",
+    "arranger": "長谷川大介(SUPA LOVE)",
+    "bpm": 188.0,
+    "duration": 121.277261,
+    "jacket": "jkt_002_100037",
+    "difficulties": {
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 665,
+        "noteCounts": {
+          "tap": 263,
+          "flick": 43,
+          "trace": 0,
+          "long": 66
+        },
+        "rawFile": "raw/0037_02_hard.json",
+        "otonoteFile": "otonote/music_0037_hard.json",
+        "gameChartFile": "ournotes_game/chart_0037_hard.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.5,
+        "officialFullCombo": 1020,
+        "noteCounts": {
+          "tap": 605,
+          "flick": 64,
+          "trace": 0,
+          "long": 72
+        },
+        "rawFile": "raw/0037_03_expert.json",
+        "otonoteFile": "otonote/music_0037_expert.json",
+        "gameChartFile": "ournotes_game/chart_0037_expert.json"
+      },
+      "normal": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 486,
+        "noteCounts": {
+          "tap": 157,
+          "flick": 1,
+          "trace": 0,
+          "long": 46
+        },
+        "rawFile": "raw/0037_01_normal.json",
+        "otonoteFile": "otonote/music_0037_normal.json",
+        "gameChartFile": "ournotes_game/chart_0037_normal.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 306,
+        "noteCounts": {
+          "tap": 96,
+          "flick": 0,
+          "trace": 0,
+          "long": 22
+        },
+        "rawFile": "raw/0037_00_easy.json",
+        "otonoteFile": "otonote/music_0037_easy.json",
+        "gameChartFile": "ournotes_game/chart_0037_easy.json"
+      }
+    },
+    "previewStartTime": 80.22,
+    "previewEndTime": 123.6,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0037.zip",
+    "packageSize": 2344456
+  },
+  {
+    "musicId": 38,
+    "title": "黑色生日",
+    "subtitle": "黒のバースデイ",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "賀佐泰洋(SUPA LOVE)",
+    "arranger": "賀佐泰洋(SUPA LOVE)",
+    "bpm": 144.0,
+    "duration": 109.545455,
+    "jacket": "jkt_002_100038",
+    "difficulties": {
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.0,
+        "officialFullCombo": 519,
+        "noteCounts": {
+          "tap": 289,
+          "flick": 51,
+          "trace": 0,
+          "long": 48
+        },
+        "rawFile": "raw/0038_02_hard.json",
+        "otonoteFile": "otonote/music_0038_hard.json",
+        "gameChartFile": "ournotes_game/chart_0038_hard.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 266,
+        "noteCounts": {
+          "tap": 64,
+          "flick": 0,
+          "trace": 0,
+          "long": 24
+        },
+        "rawFile": "raw/0038_00_easy.json",
+        "otonoteFile": "otonote/music_0038_easy.json",
+        "gameChartFile": "ournotes_game/chart_0038_easy.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 387,
+        "noteCounts": {
+          "tap": 138,
+          "flick": 0,
+          "trace": 0,
+          "long": 37
+        },
+        "rawFile": "raw/0038_01_normal.json",
+        "otonoteFile": "otonote/music_0038_normal.json",
+        "gameChartFile": "ournotes_game/chart_0038_normal.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.3,
+        "officialFullCombo": 747,
+        "noteCounts": {
+          "tap": 432,
+          "flick": 87,
+          "trace": 0,
+          "long": 79
+        },
+        "rawFile": "raw/0038_03_expert.json",
+        "otonoteFile": "otonote/music_0038_expert.json",
+        "gameChartFile": "ournotes_game/chart_0038_expert.json"
+      }
+    },
+    "previewStartTime": 66.29,
+    "previewEndTime": 106.01,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0038.zip",
+    "packageSize": 2138419
+  },
+  {
+    "musicId": 39,
+    "title": "Choir ‘S’ Choir",
+    "subtitle": "Official Track #0039",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "角本麻衣 (SUPA LOVE)",
+    "arranger": "角本麻衣 (SUPA LOVE)",
+    "bpm": 205.0,
+    "duration": 121.695687,
+    "jacket": "jkt_002_100039",
+    "difficulties": {
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 241,
+        "noteCounts": {
+          "tap": 44,
+          "flick": 0,
+          "trace": 0,
+          "long": 21
+        },
+        "rawFile": "raw/0039_00_easy.json",
+        "otonoteFile": "otonote/music_0039_easy.json",
+        "gameChartFile": "ournotes_game/chart_0039_easy.json"
+      },
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 624,
+        "noteCounts": {
+          "tap": 144,
+          "flick": 31,
+          "trace": 0,
+          "long": 93
+        },
+        "rawFile": "raw/0039_02_hard.json",
+        "otonoteFile": "otonote/music_0039_hard.json",
+        "gameChartFile": "ournotes_game/chart_0039_hard.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.5,
+        "officialFullCombo": 802,
+        "noteCounts": {
+          "tap": 447,
+          "flick": 61,
+          "trace": 0,
+          "long": 67
+        },
+        "rawFile": "raw/0039_03_expert.json",
+        "otonoteFile": "otonote/music_0039_expert.json",
+        "gameChartFile": "ournotes_game/chart_0039_expert.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 492,
+        "noteCounts": {
+          "tap": 104,
+          "flick": 0,
+          "trace": 0,
+          "long": 46
+        },
+        "rawFile": "raw/0039_01_normal.json",
+        "otonoteFile": "otonote/music_0039_normal.json",
+        "gameChartFile": "ournotes_game/chart_0039_normal.json"
+      }
+    },
+    "previewStartTime": 79.34,
+    "previewEndTime": 119.35,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0039.zip",
+    "packageSize": 2337350
+  },
+  {
+    "musicId": 40,
+    "title": "Mas?uerade Rhapsody Re?uest",
+    "subtitle": "Official Track #0040",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "あらケン(SUPA LOVE)",
+    "arranger": "あらケン(SUPA LOVE)",
+    "bpm": 190.0,
+    "duration": 107.052632,
+    "jacket": "jkt_002_100040",
+    "difficulties": {
+      "easy": {
+        "level": 10,
+        "displayLevel": 10.0,
+        "officialFullCombo": 393,
+        "noteCounts": {
+          "tap": 71,
+          "flick": 0,
+          "trace": 0,
+          "long": 32
+        },
+        "rawFile": "raw/0040_00_easy.json",
+        "otonoteFile": "otonote/music_0040_easy.json",
+        "gameChartFile": "ournotes_game/chart_0040_easy.json"
+      },
+      "normal": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 584,
+        "noteCounts": {
+          "tap": 185,
+          "flick": 4,
+          "trace": 0,
+          "long": 54
+        },
+        "rawFile": "raw/0040_01_normal.json",
+        "otonoteFile": "otonote/music_0040_normal.json",
+        "gameChartFile": "ournotes_game/chart_0040_normal.json"
+      },
+      "hard": {
+        "level": 22,
+        "displayLevel": 22.0,
+        "officialFullCombo": 752,
+        "noteCounts": {
+          "tap": 307,
+          "flick": 27,
+          "trace": 0,
+          "long": 81
+        },
+        "rawFile": "raw/0040_02_hard.json",
+        "otonoteFile": "otonote/music_0040_hard.json",
+        "gameChartFile": "ournotes_game/chart_0040_hard.json"
+      },
+      "expert": {
+        "level": 28,
+        "displayLevel": 28.5,
+        "officialFullCombo": 1054,
+        "noteCounts": {
+          "tap": 508,
+          "flick": 68,
+          "trace": 41,
+          "long": 132
+        },
+        "rawFile": "raw/0040_03_expert.json",
+        "otonoteFile": "otonote/music_0040_expert.json",
+        "gameChartFile": "ournotes_game/chart_0040_expert.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 36.71,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0040.zip",
+    "packageSize": 2114048
+  },
+  {
+    "musicId": 41,
+    "title": "残酷な天使のテーゼ",
+    "subtitle": "Official Track #0041",
+    "band": "Ave Mujica",
+    "lyricist": "及川眠子",
+    "composer": "佐藤英敏",
+    "arranger": "植木建象、冬真",
+    "bpm": 79.0,
+    "duration": 131.924764,
+    "jacket": "jkt_002_100041",
+    "difficulties": {
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 480,
+        "noteCounts": {
+          "tap": 241,
+          "flick": 5,
+          "trace": 0,
+          "long": 73
+        },
+        "rawFile": "raw/0041_02_hard.json",
+        "otonoteFile": "otonote/music_0041_hard.json",
+        "gameChartFile": "ournotes_game/chart_0041_hard.json"
+      },
+      "expert": {
+        "level": 23,
+        "displayLevel": 23.9,
+        "officialFullCombo": 693,
+        "noteCounts": {
+          "tap": 236,
+          "flick": 57,
+          "trace": 0,
+          "long": 143
+        },
+        "rawFile": "raw/0041_03_expert.json",
+        "otonoteFile": "otonote/music_0041_expert.json",
+        "gameChartFile": "ournotes_game/chart_0041_expert.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 307,
+        "noteCounts": {
+          "tap": 89,
+          "flick": 2,
+          "trace": 0,
+          "long": 64
+        },
+        "rawFile": "raw/0041_01_normal.json",
+        "otonoteFile": "otonote/music_0041_normal.json",
+        "gameChartFile": "ournotes_game/chart_0041_normal.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 255,
+        "noteCounts": {
+          "tap": 65,
+          "flick": 0,
+          "trace": 0,
+          "long": 31
+        },
+        "rawFile": "raw/0041_00_easy.json",
+        "otonoteFile": "otonote/music_0041_easy.json",
+        "gameChartFile": "ournotes_game/chart_0041_easy.json"
+      }
+    },
+    "previewStartTime": 111.66,
+    "previewEndTime": 134.38,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0041.zip",
+    "packageSize": 2239678
+  },
+  {
+    "musicId": 42,
+    "title": "堕天",
+    "subtitle": "Official Track #0042",
+    "band": "Ave Mujica",
+    "lyricist": "R-指定",
+    "composer": "DJ松永",
+    "arranger": "UYKADO",
+    "bpm": 205.0,
+    "duration": 125.268293,
+    "jacket": "jkt_002_100042",
+    "difficulties": {
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 467,
+        "noteCounts": {
+          "tap": 227,
+          "flick": 0,
+          "trace": 0,
+          "long": 48
+        },
+        "rawFile": "raw/0042_01_normal.json",
+        "otonoteFile": "otonote/music_0042_normal.json",
+        "gameChartFile": "ournotes_game/chart_0042_normal.json"
+      },
+      "easy": {
+        "level": 9,
+        "displayLevel": 9.0,
+        "officialFullCombo": 306,
+        "noteCounts": {
+          "tap": 108,
+          "flick": 0,
+          "trace": 0,
+          "long": 26
+        },
+        "rawFile": "raw/0042_00_easy.json",
+        "otonoteFile": "otonote/music_0042_easy.json",
+        "gameChartFile": "ournotes_game/chart_0042_easy.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.5,
+        "officialFullCombo": 934,
+        "noteCounts": {
+          "tap": 552,
+          "flick": 42,
+          "trace": 0,
+          "long": 102
+        },
+        "rawFile": "raw/0042_03_expert.json",
+        "otonoteFile": "otonote/music_0042_expert.json",
+        "gameChartFile": "ournotes_game/chart_0042_expert.json"
+      },
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 707,
+        "noteCounts": {
+          "tap": 404,
+          "flick": 28,
+          "trace": 0,
+          "long": 71
+        },
+        "rawFile": "raw/0042_02_hard.json",
+        "otonoteFile": "otonote/music_0042_hard.json",
+        "gameChartFile": "ournotes_game/chart_0042_hard.json"
+      }
+    },
+    "previewStartTime": 80.96,
+    "previewEndTime": 121.99,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0042.zip",
+    "packageSize": 2228794
+  },
+  {
+    "musicId": 43,
+    "title": "暗黒天国",
+    "subtitle": "Official Track #0043",
+    "band": "Ave Mujica",
+    "lyricist": "宝野　アリカ",
+    "composer": "片倉　三起也",
+    "arranger": "UYKADO",
+    "bpm": 190.0,
+    "duration": 113.684211,
+    "jacket": "jkt_002_100043",
+    "difficulties": {
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 484,
+        "noteCounts": {
+          "tap": 103,
+          "flick": 0,
+          "trace": 0,
+          "long": 45
+        },
+        "rawFile": "raw/0043_01_normal.json",
+        "otonoteFile": "otonote/music_0043_normal.json",
+        "gameChartFile": "ournotes_game/chart_0043_normal.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.5,
+        "officialFullCombo": 920,
+        "noteCounts": {
+          "tap": 285,
+          "flick": 70,
+          "trace": 0,
+          "long": 124
+        },
+        "rawFile": "raw/0043_03_expert.json",
+        "otonoteFile": "otonote/music_0043_expert.json",
+        "gameChartFile": "ournotes_game/chart_0043_expert.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 374,
+        "noteCounts": {
+          "tap": 47,
+          "flick": 0,
+          "trace": 0,
+          "long": 32
+        },
+        "rawFile": "raw/0043_00_easy.json",
+        "otonoteFile": "otonote/music_0043_easy.json",
+        "gameChartFile": "ournotes_game/chart_0043_easy.json"
+      },
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.0,
+        "officialFullCombo": 782,
+        "noteCounts": {
+          "tap": 143,
+          "flick": 24,
+          "trace": 0,
+          "long": 115
+        },
+        "rawFile": "raw/0043_02_hard.json",
+        "otonoteFile": "otonote/music_0043_hard.json",
+        "gameChartFile": "ournotes_game/chart_0043_hard.json"
+      }
+    },
+    "previewStartTime": 16.6,
+    "previewEndTime": 46.38,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0043.zip",
+    "packageSize": 2114730
+  },
+  {
+    "musicId": 44,
+    "title": "KINGS",
+    "subtitle": "Official Track #0044",
+    "band": "Ave Mujica",
+    "lyricist": "atsuko",
+    "composer": "atsuko/KATSU",
+    "arranger": "UYKADO",
+    "bpm": 176.0,
+    "duration": 118.636364,
+    "jacket": "jkt_002_100044",
+    "difficulties": {
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.0,
+        "officialFullCombo": 849,
+        "noteCounts": {
+          "tap": 445,
+          "flick": 31,
+          "trace": 0,
+          "long": 84
+        },
+        "rawFile": "raw/0044_03_expert.json",
+        "otonoteFile": "otonote/music_0044_expert.json",
+        "gameChartFile": "ournotes_game/chart_0044_expert.json"
+      },
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 455,
+        "noteCounts": {
+          "tap": 148,
+          "flick": 0,
+          "trace": 0,
+          "long": 50
+        },
+        "rawFile": "raw/0044_01_normal.json",
+        "otonoteFile": "otonote/music_0044_normal.json",
+        "gameChartFile": "ournotes_game/chart_0044_normal.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 656,
+        "noteCounts": {
+          "tap": 245,
+          "flick": 14,
+          "trace": 0,
+          "long": 79
+        },
+        "rawFile": "raw/0044_02_hard.json",
+        "otonoteFile": "otonote/music_0044_hard.json",
+        "gameChartFile": "ournotes_game/chart_0044_hard.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 288,
+        "noteCounts": {
+          "tap": 83,
+          "flick": 0,
+          "trace": 0,
+          "long": 19
+        },
+        "rawFile": "raw/0044_00_easy.json",
+        "otonoteFile": "otonote/music_0044_easy.json",
+        "gameChartFile": "ournotes_game/chart_0044_easy.json"
+      }
+    },
+    "previewStartTime": 92.74,
+    "previewEndTime": 117.16,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0044.zip",
+    "packageSize": 2240682
+  },
+  {
+    "musicId": 47,
+    "title": "ファタール",
+    "subtitle": "Official Track #0047",
+    "band": "Ave Mujica",
+    "lyricist": "キタニタツヤ",
+    "composer": "キタニタツヤ",
+    "arranger": "植木建象、加藤貴之",
+    "bpm": 156.0,
+    "duration": 95.769231,
+    "jacket": "jkt_002_100047",
+    "difficulties": {
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 536,
+        "noteCounts": {
+          "tap": 235,
+          "flick": 26,
+          "trace": 0,
+          "long": 67
+        },
+        "rawFile": "raw/0047_02_hard.json",
+        "otonoteFile": "otonote/music_0047_hard.json",
+        "gameChartFile": "ournotes_game/chart_0047_hard.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 336,
+        "noteCounts": {
+          "tap": 144,
+          "flick": 0,
+          "trace": 0,
+          "long": 36
+        },
+        "rawFile": "raw/0047_01_normal.json",
+        "otonoteFile": "otonote/music_0047_normal.json",
+        "gameChartFile": "ournotes_game/chart_0047_normal.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.5,
+        "officialFullCombo": 613,
+        "noteCounts": {
+          "tap": 358,
+          "flick": 69,
+          "trace": 12,
+          "long": 55
+        },
+        "rawFile": "raw/0047_03_expert.json",
+        "otonoteFile": "otonote/music_0047_expert.json",
+        "gameChartFile": "ournotes_game/chart_0047_expert.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 217,
+        "noteCounts": {
+          "tap": 83,
+          "flick": 0,
+          "trace": 0,
+          "long": 24
+        },
+        "rawFile": "raw/0047_00_easy.json",
+        "otonoteFile": "otonote/music_0047_easy.json",
+        "gameChartFile": "ournotes_game/chart_0047_easy.json"
+      }
+    },
+    "previewStartTime": 49.61,
+    "previewEndTime": 79.17,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0047.zip",
+    "packageSize": 1870281
+  },
+  {
+    "musicId": 50,
+    "title": "†动物派对†正在举行†",
+    "subtitle": "†animaるパーティ†開催中†",
+    "band": "梦限大MewType",
+    "lyricist": "堀江晶太",
+    "composer": "堀江晶太",
+    "arranger": "堀江晶太",
+    "bpm": 195.0,
+    "duration": 120.307692,
+    "jacket": "jkt_003_100050",
+    "difficulties": {
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 487,
+        "noteCounts": {
+          "tap": 202,
+          "flick": 0,
+          "trace": 0,
+          "long": 54
+        },
+        "rawFile": "raw/0050_01_normal.json",
+        "otonoteFile": "otonote/music_0050_normal.json",
+        "gameChartFile": "ournotes_game/chart_0050_normal.json"
+      },
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 659,
+        "noteCounts": {
+          "tap": 317,
+          "flick": 33,
+          "trace": 0,
+          "long": 84
+        },
+        "rawFile": "raw/0050_02_hard.json",
+        "otonoteFile": "otonote/music_0050_hard.json",
+        "gameChartFile": "ournotes_game/chart_0050_hard.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 196,
+        "noteCounts": {
+          "tap": 110,
+          "flick": 0,
+          "trace": 0,
+          "long": 8
+        },
+        "rawFile": "raw/0050_00_easy.json",
+        "otonoteFile": "otonote/music_0050_easy.json",
+        "gameChartFile": "ournotes_game/chart_0050_easy.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.0,
+        "officialFullCombo": 987,
+        "noteCounts": {
+          "tap": 510,
+          "flick": 41,
+          "trace": 0,
+          "long": 122
+        },
+        "rawFile": "raw/0050_03_expert.json",
+        "otonoteFile": "otonote/music_0050_expert.json",
+        "gameChartFile": "ournotes_game/chart_0050_expert.json"
+      }
+    },
+    "previewStartTime": 63.87,
+    "previewEndTime": 93.55,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0050.zip",
+    "packageSize": 2167832
+  },
+  {
+    "musicId": 51,
+    "title": "Empty puppet",
+    "subtitle": "エンプティパペット",
+    "band": "梦限大MewType",
+    "lyricist": "吾龍",
+    "composer": "eba",
+    "arranger": "eba",
+    "bpm": 125.0,
+    "duration": 121.44,
+    "jacket": "jkt_003_100051",
+    "difficulties": {
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.0,
+        "officialFullCombo": 850,
+        "noteCounts": {
+          "tap": 363,
+          "flick": 60,
+          "trace": 0,
+          "long": 100
+        },
+        "rawFile": "raw/0051_03_expert.json",
+        "otonoteFile": "otonote/music_0051_expert.json",
+        "gameChartFile": "ournotes_game/chart_0051_expert.json"
+      },
+      "easy": {
+        "level": 9,
+        "displayLevel": 9.0,
+        "officialFullCombo": 311,
+        "noteCounts": {
+          "tap": 88,
+          "flick": 0,
+          "trace": 0,
+          "long": 31
+        },
+        "rawFile": "raw/0051_00_easy.json",
+        "otonoteFile": "otonote/music_0051_easy.json",
+        "gameChartFile": "ournotes_game/chart_0051_easy.json"
+      },
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 710,
+        "noteCounts": {
+          "tap": 225,
+          "flick": 8,
+          "trace": 0,
+          "long": 104
+        },
+        "rawFile": "raw/0051_02_hard.json",
+        "otonoteFile": "otonote/music_0051_hard.json",
+        "gameChartFile": "ournotes_game/chart_0051_hard.json"
+      },
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 473,
+        "noteCounts": {
+          "tap": 153,
+          "flick": 8,
+          "trace": 0,
+          "long": 71
+        },
+        "rawFile": "raw/0051_01_normal.json",
+        "otonoteFile": "otonote/music_0051_normal.json",
+        "gameChartFile": "ournotes_game/chart_0051_normal.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 26.27,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0051.zip",
+    "packageSize": 2269834
+  },
+  {
+    "musicId": 52,
+    "title": "限界现实Survive天使",
+    "subtitle": "限界現実サバイブ天使",
+    "band": "梦限大MewType",
+    "lyricist": "凍堂遊維",
+    "composer": "凍堂遊維",
+    "arranger": "Nor、堀江晶太",
+    "bpm": 189.0,
+    "duration": 120.0,
+    "jacket": "jkt_003_100052",
+    "difficulties": {
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 419,
+        "noteCounts": {
+          "tap": 225,
+          "flick": 0,
+          "trace": 0,
+          "long": 31
+        },
+        "rawFile": "raw/0052_01_normal.json",
+        "otonoteFile": "otonote/music_0052_normal.json",
+        "gameChartFile": "ournotes_game/chart_0052_normal.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 269,
+        "noteCounts": {
+          "tap": 105,
+          "flick": 0,
+          "trace": 0,
+          "long": 22
+        },
+        "rawFile": "raw/0052_00_easy.json",
+        "otonoteFile": "otonote/music_0052_easy.json",
+        "gameChartFile": "ournotes_game/chart_0052_easy.json"
+      },
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 631,
+        "noteCounts": {
+          "tap": 323,
+          "flick": 35,
+          "trace": 0,
+          "long": 57
+        },
+        "rawFile": "raw/0052_02_hard.json",
+        "otonoteFile": "otonote/music_0052_hard.json",
+        "gameChartFile": "ournotes_game/chart_0052_hard.json"
+      },
+      "expert": {
+        "level": 27,
+        "displayLevel": 27.0,
+        "officialFullCombo": 958,
+        "noteCounts": {
+          "tap": 507,
+          "flick": 57,
+          "trace": 0,
+          "long": 98
+        },
+        "rawFile": "raw/0052_03_expert.json",
+        "otonoteFile": "otonote/music_0052_expert.json",
+        "gameChartFile": "ournotes_game/chart_0052_expert.json"
+      }
+    },
+    "previewStartTime": 55.44,
+    "previewEndTime": 85.5,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0052.zip",
+    "packageSize": 2281167
+  },
+  {
+    "musicId": 53,
+    "title": "BIG MOUTH",
+    "subtitle": "ビッグマウス",
+    "band": "梦限大MewType",
+    "lyricist": "白神真志朗、Sekimen",
+    "composer": "堀江晶太、白神真志朗",
+    "arranger": "堀江晶太、Nor",
+    "bpm": 145.0,
+    "duration": 123.724138,
+    "jacket": "jkt_003_100053",
+    "difficulties": {
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 283,
+        "noteCounts": {
+          "tap": 62,
+          "flick": 0,
+          "trace": 0,
+          "long": 34
+        },
+        "rawFile": "raw/0053_00_easy.json",
+        "otonoteFile": "otonote/music_0053_easy.json",
+        "gameChartFile": "ournotes_game/chart_0053_easy.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 484,
+        "noteCounts": {
+          "tap": 84,
+          "flick": 0,
+          "trace": 0,
+          "long": 72
+        },
+        "rawFile": "raw/0053_01_normal.json",
+        "otonoteFile": "otonote/music_0053_normal.json",
+        "gameChartFile": "ournotes_game/chart_0053_normal.json"
+      },
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.5,
+        "officialFullCombo": 804,
+        "noteCounts": {
+          "tap": 473,
+          "flick": 104,
+          "trace": 0,
+          "long": 64
+        },
+        "rawFile": "raw/0053_03_expert.json",
+        "otonoteFile": "otonote/music_0053_expert.json",
+        "gameChartFile": "ournotes_game/chart_0053_expert.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 595,
+        "noteCounts": {
+          "tap": 277,
+          "flick": 41,
+          "trace": 0,
+          "long": 74
+        },
+        "rawFile": "raw/0053_02_hard.json",
+        "otonoteFile": "otonote/music_0053_hard.json",
+        "gameChartFile": "ournotes_game/chart_0053_hard.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 30.07,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0053.zip",
+    "packageSize": 2317497
+  },
+  {
+    "musicId": 54,
+    "title": "梦现妄想世界",
+    "subtitle": "夢現妄想世界",
+    "band": "梦限大MewType",
+    "lyricist": "やしきん",
+    "composer": "園田健太郎",
+    "arranger": "園田健太郎",
+    "bpm": 195.0,
+    "duration": 99.384615,
+    "jacket": "jkt_003_100054",
+    "difficulties": {
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.0,
+        "officialFullCombo": 833,
+        "noteCounts": {
+          "tap": 430,
+          "flick": 63,
+          "trace": 0,
+          "long": 97
+        },
+        "rawFile": "raw/0054_03_expert.json",
+        "otonoteFile": "otonote/music_0054_expert.json",
+        "gameChartFile": "ournotes_game/chart_0054_expert.json"
+      },
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 602,
+        "noteCounts": {
+          "tap": 284,
+          "flick": 11,
+          "trace": 0,
+          "long": 84
+        },
+        "rawFile": "raw/0054_02_hard.json",
+        "otonoteFile": "otonote/music_0054_hard.json",
+        "gameChartFile": "ournotes_game/chart_0054_hard.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 220,
+        "noteCounts": {
+          "tap": 72,
+          "flick": 0,
+          "trace": 0,
+          "long": 20
+        },
+        "rawFile": "raw/0054_00_easy.json",
+        "otonoteFile": "otonote/music_0054_easy.json",
+        "gameChartFile": "ournotes_game/chart_0054_easy.json"
+      },
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 361,
+        "noteCounts": {
+          "tap": 87,
+          "flick": 0,
+          "trace": 0,
+          "long": 50
+        },
+        "rawFile": "raw/0054_01_normal.json",
+        "otonoteFile": "otonote/music_0054_normal.json",
+        "gameChartFile": "ournotes_game/chart_0054_normal.json"
+      }
+    },
+    "previewStartTime": 87.94,
+    "previewEndTime": 102.49,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0054.zip",
+    "packageSize": 1972961
+  },
+  {
+    "musicId": 55,
+    "title": "KOHAKU",
+    "subtitle": "コハク",
+    "band": "梦限大MewType",
+    "lyricist": "仲町阿拉蕾、堀江晶太",
+    "composer": "堀江晶太",
+    "arranger": "堀江晶太",
+    "bpm": 195.0,
+    "duration": 118.615385,
+    "jacket": "jkt_003_100055",
+    "difficulties": {
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.5,
+        "officialFullCombo": 917,
+        "noteCounts": {
+          "tap": 168,
+          "flick": 0,
+          "trace": 0,
+          "long": 135
+        },
+        "rawFile": "raw/0055_02_hard.json",
+        "otonoteFile": "otonote/music_0055_hard.json",
+        "gameChartFile": "ournotes_game/chart_0055_hard.json"
+      },
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 528,
+        "noteCounts": {
+          "tap": 117,
+          "flick": 0,
+          "trace": 0,
+          "long": 49
+        },
+        "rawFile": "raw/0055_01_normal.json",
+        "otonoteFile": "otonote/music_0055_normal.json",
+        "gameChartFile": "ournotes_game/chart_0055_normal.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 369,
+        "noteCounts": {
+          "tap": 85,
+          "flick": 0,
+          "trace": 0,
+          "long": 23
+        },
+        "rawFile": "raw/0055_00_easy.json",
+        "otonoteFile": "otonote/music_0055_easy.json",
+        "gameChartFile": "ournotes_game/chart_0055_easy.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.5,
+        "officialFullCombo": 1086,
+        "noteCounts": {
+          "tap": 261,
+          "flick": 29,
+          "trace": 0,
+          "long": 207
+        },
+        "rawFile": "raw/0055_03_expert.json",
+        "otonoteFile": "otonote/music_0055_expert.json",
+        "gameChartFile": "ournotes_game/chart_0055_expert.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 24.78,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0055.zip",
+    "packageSize": 2218775
+  },
+  {
+    "musicId": 56,
+    "title": "这是我们的生存梗概",
+    "subtitle": "これはぼくたちの生存のあらすじ",
+    "band": "梦限大MewType",
+    "lyricist": "田淵智也",
+    "composer": "田淵智也",
+    "arranger": "堀江晶太",
+    "bpm": 191.0,
+    "duration": 90.314136,
+    "jacket": "jkt_003_100056",
+    "difficulties": {
+      "easy": {
+        "level": 9,
+        "displayLevel": 9.0,
+        "officialFullCombo": 364,
+        "noteCounts": {
+          "tap": 54,
+          "flick": 0,
+          "trace": 0,
+          "long": 41
+        },
+        "rawFile": "raw/0056_00_easy.json",
+        "otonoteFile": "otonote/music_0056_easy.json",
+        "gameChartFile": "ournotes_game/chart_0056_easy.json"
+      },
+      "hard": {
+        "level": 23,
+        "displayLevel": 23.0,
+        "officialFullCombo": 651,
+        "noteCounts": {
+          "tap": 234,
+          "flick": 49,
+          "trace": 0,
+          "long": 81
+        },
+        "rawFile": "raw/0056_02_hard.json",
+        "otonoteFile": "otonote/music_0056_hard.json",
+        "gameChartFile": "ournotes_game/chart_0056_hard.json"
+      },
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 488,
+        "noteCounts": {
+          "tap": 119,
+          "flick": 2,
+          "trace": 0,
+          "long": 46
+        },
+        "rawFile": "raw/0056_01_normal.json",
+        "otonoteFile": "otonote/music_0056_normal.json",
+        "gameChartFile": "ournotes_game/chart_0056_normal.json"
+      },
+      "expert": {
+        "level": 27,
+        "displayLevel": 27.5,
+        "officialFullCombo": 843,
+        "noteCounts": {
+          "tap": 309,
+          "flick": 78,
+          "trace": 8,
+          "long": 108
+        },
+        "rawFile": "raw/0056_03_expert.json",
+        "otonoteFile": "otonote/music_0056_expert.json",
+        "gameChartFile": "ournotes_game/chart_0056_expert.json"
+      }
+    },
+    "previewStartTime": 57.25,
+    "previewEndTime": 83.9,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0056.zip",
+    "packageSize": 1869652
+  },
+  {
+    "musicId": 57,
+    "title": "宇宙的不可思议",
+    "subtitle": "うちゅうのふしぎ",
+    "band": "梦限大MewType",
+    "lyricist": "sabio",
+    "composer": "sabio",
+    "arranger": "sabio",
+    "bpm": 122.0,
+    "duration": 87.04918,
+    "jacket": "jkt_003_100057",
+    "difficulties": {
+      "hard": {
+        "level": 16,
+        "displayLevel": 16.0,
+        "officialFullCombo": 370,
+        "noteCounts": {
+          "tap": 51,
+          "flick": 23,
+          "trace": 0,
+          "long": 42
+        },
+        "rawFile": "raw/0057_02_hard.json",
+        "otonoteFile": "otonote/music_0057_hard.json",
+        "gameChartFile": "ournotes_game/chart_0057_hard.json"
+      },
+      "normal": {
+        "level": 10,
+        "displayLevel": 10.0,
+        "officialFullCombo": 206,
+        "noteCounts": {
+          "tap": 84,
+          "flick": 0,
+          "trace": 0,
+          "long": 16
+        },
+        "rawFile": "raw/0057_01_normal.json",
+        "otonoteFile": "otonote/music_0057_normal.json",
+        "gameChartFile": "ournotes_game/chart_0057_normal.json"
+      },
+      "expert": {
+        "level": 22,
+        "displayLevel": 22.0,
+        "officialFullCombo": 481,
+        "noteCounts": {
+          "tap": 84,
+          "flick": 15,
+          "trace": 0,
+          "long": 96
+        },
+        "rawFile": "raw/0057_03_expert.json",
+        "otonoteFile": "otonote/music_0057_expert.json",
+        "gameChartFile": "ournotes_game/chart_0057_expert.json"
+      },
+      "easy": {
+        "level": 5,
+        "displayLevel": 5.0,
+        "officialFullCombo": 162,
+        "noteCounts": {
+          "tap": 38,
+          "flick": 0,
+          "trace": 0,
+          "long": 21
+        },
+        "rawFile": "raw/0057_00_easy.json",
+        "otonoteFile": "otonote/music_0057_easy.json",
+        "gameChartFile": "ournotes_game/chart_0057_easy.json"
+      }
+    },
+    "previewStartTime": 34.94,
+    "previewEndTime": 60.49,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0057.zip",
+    "packageSize": 1671933
+  },
+  {
+    "musicId": 58,
+    "title": "午夜游乐园",
+    "subtitle": "真夜中遊園地",
+    "band": "梦限大MewType",
+    "lyricist": "烏屋茶房",
+    "composer": "哥丸雄貴",
+    "arranger": "哥丸雄貴、堀江晶太",
+    "bpm": 195.0,
+    "duration": 88.615385,
+    "jacket": "jkt_003_100058",
+    "difficulties": {
+      "hard": {
+        "level": 21,
+        "displayLevel": 21.0,
+        "officialFullCombo": 566,
+        "noteCounts": {
+          "tap": 276,
+          "flick": 27,
+          "trace": 0,
+          "long": 76
+        },
+        "rawFile": "raw/0058_02_hard.json",
+        "otonoteFile": "otonote/music_0058_hard.json",
+        "gameChartFile": "ournotes_game/chart_0058_hard.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.0,
+        "officialFullCombo": 754,
+        "noteCounts": {
+          "tap": 373,
+          "flick": 57,
+          "trace": 0,
+          "long": 118
+        },
+        "rawFile": "raw/0058_03_expert.json",
+        "otonoteFile": "otonote/music_0058_expert.json",
+        "gameChartFile": "ournotes_game/chart_0058_expert.json"
+      },
+      "easy": {
+        "level": 9,
+        "displayLevel": 9.0,
+        "officialFullCombo": 241,
+        "noteCounts": {
+          "tap": 51,
+          "flick": 0,
+          "trace": 0,
+          "long": 22
+        },
+        "rawFile": "raw/0058_00_easy.json",
+        "otonoteFile": "otonote/music_0058_easy.json",
+        "gameChartFile": "ournotes_game/chart_0058_easy.json"
+      },
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 453,
+        "noteCounts": {
+          "tap": 130,
+          "flick": 0,
+          "trace": 0,
+          "long": 59
+        },
+        "rawFile": "raw/0058_01_normal.json",
+        "otonoteFile": "otonote/music_0058_normal.json",
+        "gameChartFile": "ournotes_game/chart_0058_normal.json"
+      }
+    },
+    "previewStartTime": 46.38,
+    "previewEndTime": 71.83,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0058.zip",
+    "packageSize": 1894827
+  },
+  {
+    "musicId": 59,
+    "title": "Tuning",
+    "subtitle": "チューニング",
+    "band": "梦限大MewType",
+    "lyricist": "仲町阿拉蕾、千石由乃、堀江晶太",
+    "composer": "千石由乃、堀江晶太",
+    "arranger": "堀江晶太、千石由乃",
+    "bpm": 195.0,
+    "duration": 98.461538,
+    "jacket": "jkt_003_100059",
+    "difficulties": {
+      "easy": {
+        "level": 5,
+        "displayLevel": 5.0,
+        "officialFullCombo": 211,
+        "noteCounts": {
+          "tap": 46,
+          "flick": 0,
+          "trace": 0,
+          "long": 13
+        },
+        "rawFile": "raw/0059_00_easy.json",
+        "otonoteFile": "otonote/music_0059_easy.json",
+        "gameChartFile": "ournotes_game/chart_0059_easy.json"
+      },
+      "normal": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 396,
+        "noteCounts": {
+          "tap": 72,
+          "flick": 0,
+          "trace": 0,
+          "long": 52
+        },
+        "rawFile": "raw/0059_01_normal.json",
+        "otonoteFile": "otonote/music_0059_normal.json",
+        "gameChartFile": "ournotes_game/chart_0059_normal.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 488,
+        "noteCounts": {
+          "tap": 188,
+          "flick": 11,
+          "trace": 0,
+          "long": 72
+        },
+        "rawFile": "raw/0059_02_hard.json",
+        "otonoteFile": "otonote/music_0059_hard.json",
+        "gameChartFile": "ournotes_game/chart_0059_hard.json"
+      },
+      "expert": {
+        "level": 23,
+        "displayLevel": 23.5,
+        "officialFullCombo": 610,
+        "noteCounts": {
+          "tap": 161,
+          "flick": 37,
+          "trace": 11,
+          "long": 90
+        },
+        "rawFile": "raw/0059_03_expert.json",
+        "otonoteFile": "otonote/music_0059_expert.json",
+        "gameChartFile": "ournotes_game/chart_0059_expert.json"
+      }
+    },
+    "previewStartTime": 89.29,
+    "previewEndTime": 102.01,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0059.zip",
+    "packageSize": 2017155
+  },
+  {
+    "musicId": 60,
+    "title": "前往超行星X之旅",
+    "subtitle": "超惑星Xへの旅",
+    "band": "梦限大MewType",
+    "lyricist": "堀江晶太",
+    "composer": "TeddyLoid・堀江晶太",
+    "arranger": "TeddyLoid・堀江晶太",
+    "bpm": 136.0,
+    "duration": 104.117647,
+    "jacket": "jkt_003_100060",
+    "difficulties": {
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.0,
+        "officialFullCombo": 763,
+        "noteCounts": {
+          "tap": 333,
+          "flick": 21,
+          "trace": 38,
+          "long": 111
+        },
+        "rawFile": "raw/0060_03_expert.json",
+        "otonoteFile": "otonote/music_0060_expert.json",
+        "gameChartFile": "ournotes_game/chart_0060_expert.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 261,
+        "noteCounts": {
+          "tap": 36,
+          "flick": 0,
+          "trace": 0,
+          "long": 35
+        },
+        "rawFile": "raw/0060_00_easy.json",
+        "otonoteFile": "otonote/music_0060_easy.json",
+        "gameChartFile": "ournotes_game/chart_0060_easy.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 360,
+        "noteCounts": {
+          "tap": 82,
+          "flick": 0,
+          "trace": 0,
+          "long": 45
+        },
+        "rawFile": "raw/0060_01_normal.json",
+        "otonoteFile": "otonote/music_0060_normal.json",
+        "gameChartFile": "ournotes_game/chart_0060_normal.json"
+      },
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.5,
+        "officialFullCombo": 594,
+        "noteCounts": {
+          "tap": 171,
+          "flick": 10,
+          "trace": 0,
+          "long": 146
+        },
+        "rawFile": "raw/0060_02_hard.json",
+        "otonoteFile": "otonote/music_0060_hard.json",
+        "gameChartFile": "ournotes_game/chart_0060_hard.json"
+      }
+    },
+    "previewStartTime": 93.5,
+    "previewEndTime": 105.16,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0060.zip",
+    "packageSize": 2179105
+  },
+  {
+    "musicId": 61,
+    "title": "六兆年と一夜物語",
+    "subtitle": "Official Track #0061",
+    "band": "梦限大MewType",
+    "lyricist": "kemu",
+    "composer": "kemu",
+    "arranger": "sabio/高村風太",
+    "bpm": 186.0,
+    "duration": 86.936156,
+    "jacket": "jkt_003_100061",
+    "difficulties": {
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.0,
+        "officialFullCombo": 787,
+        "noteCounts": {
+          "tap": 310,
+          "flick": 81,
+          "trace": 0,
+          "long": 84
+        },
+        "rawFile": "raw/0061_03_expert.json",
+        "otonoteFile": "otonote/music_0061_expert.json",
+        "gameChartFile": "ournotes_game/chart_0061_expert.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 252,
+        "noteCounts": {
+          "tap": 44,
+          "flick": 0,
+          "trace": 0,
+          "long": 21
+        },
+        "rawFile": "raw/0061_00_easy.json",
+        "otonoteFile": "otonote/music_0061_easy.json",
+        "gameChartFile": "ournotes_game/chart_0061_easy.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 335,
+        "noteCounts": {
+          "tap": 115,
+          "flick": 2,
+          "trace": 0,
+          "long": 30
+        },
+        "rawFile": "raw/0061_01_normal.json",
+        "otonoteFile": "otonote/music_0061_normal.json",
+        "gameChartFile": "ournotes_game/chart_0061_normal.json"
+      },
+      "hard": {
+        "level": 21,
+        "displayLevel": 21.0,
+        "officialFullCombo": 621,
+        "noteCounts": {
+          "tap": 216,
+          "flick": 35,
+          "trace": 0,
+          "long": 79
+        },
+        "rawFile": "raw/0061_02_hard.json",
+        "otonoteFile": "otonote/music_0061_hard.json",
+        "gameChartFile": "ournotes_game/chart_0061_hard.json"
+      }
+    },
+    "previewStartTime": 56.85,
+    "previewEndTime": 82.82,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0061.zip",
+    "packageSize": 1764442
+  },
+  {
+    "musicId": 62,
+    "title": "唱",
+    "subtitle": "Official Track #0062",
+    "band": "梦限大MewType",
+    "lyricist": "TOPHAMHAT-KYO (FAKE TYPE.)",
+    "composer": "Giga & TeddyLoid",
+    "arranger": "DjeDje、KENSEI、三村一輝",
+    "bpm": 132.0,
+    "duration": 98.181818,
+    "jacket": "jkt_003_100062",
+    "difficulties": {
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 207,
+        "noteCounts": {
+          "tap": 73,
+          "flick": 0,
+          "trace": 0,
+          "long": 19
+        },
+        "rawFile": "raw/0062_00_easy.json",
+        "otonoteFile": "otonote/music_0062_easy.json",
+        "gameChartFile": "ournotes_game/chart_0062_easy.json"
+      },
+      "expert": {
+        "level": 23,
+        "displayLevel": 23.5,
+        "officialFullCombo": 655,
+        "noteCounts": {
+          "tap": 187,
+          "flick": 48,
+          "trace": 0,
+          "long": 105
+        },
+        "rawFile": "raw/0062_03_expert.json",
+        "otonoteFile": "otonote/music_0062_expert.json",
+        "gameChartFile": "ournotes_game/chart_0062_expert.json"
+      },
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 380,
+        "noteCounts": {
+          "tap": 113,
+          "flick": 0,
+          "trace": 0,
+          "long": 51
+        },
+        "rawFile": "raw/0062_01_normal.json",
+        "otonoteFile": "otonote/music_0062_normal.json",
+        "gameChartFile": "ournotes_game/chart_0062_normal.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 569,
+        "noteCounts": {
+          "tap": 147,
+          "flick": 4,
+          "trace": 0,
+          "long": 79
+        },
+        "rawFile": "raw/0062_02_hard.json",
+        "otonoteFile": "otonote/music_0062_hard.json",
+        "gameChartFile": "ournotes_game/chart_0062_hard.json"
+      }
+    },
+    "previewStartTime": 75.67,
+    "previewEndTime": 100.01,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0062.zip",
+    "packageSize": 1940957
+  },
+  {
+    "musicId": 63,
+    "title": "オリオンをなぞる",
+    "subtitle": "Official Track #0063",
+    "band": "梦限大MewType",
+    "lyricist": "田淵智也",
+    "composer": "田淵智也",
+    "arranger": "岡村大輔",
+    "bpm": 182.0,
+    "duration": 98.736264,
+    "jacket": "jkt_003_100063",
+    "difficulties": {
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 615,
+        "noteCounts": {
+          "tap": 214,
+          "flick": 10,
+          "trace": 0,
+          "long": 80
+        },
+        "rawFile": "raw/0063_02_hard.json",
+        "otonoteFile": "otonote/music_0063_hard.json",
+        "gameChartFile": "ournotes_game/chart_0063_hard.json"
+      },
+      "expert": {
+        "level": 23,
+        "displayLevel": 23.5,
+        "officialFullCombo": 718,
+        "noteCounts": {
+          "tap": 294,
+          "flick": 52,
+          "trace": 14,
+          "long": 86
+        },
+        "rawFile": "raw/0063_03_expert.json",
+        "otonoteFile": "otonote/music_0063_expert.json",
+        "gameChartFile": "ournotes_game/chart_0063_expert.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 304,
+        "noteCounts": {
+          "tap": 36,
+          "flick": 0,
+          "trace": 0,
+          "long": 32
+        },
+        "rawFile": "raw/0063_00_easy.json",
+        "otonoteFile": "otonote/music_0063_easy.json",
+        "gameChartFile": "ournotes_game/chart_0063_easy.json"
+      },
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 492,
+        "noteCounts": {
+          "tap": 66,
+          "flick": 0,
+          "trace": 0,
+          "long": 55
+        },
+        "rawFile": "raw/0063_01_normal.json",
+        "otonoteFile": "otonote/music_0063_normal.json",
+        "gameChartFile": "ournotes_game/chart_0063_normal.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 30.8,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0063.zip",
+    "packageSize": 1879781
+  },
+  {
+    "musicId": 64,
+    "title": "UNDEAD",
+    "subtitle": "Official Track #0064",
+    "band": "梦限大MewType",
+    "lyricist": "Ayase",
+    "composer": "Ayase",
+    "arranger": "DjeDje、三村一輝",
+    "bpm": 144.0,
+    "duration": 102.5,
+    "jacket": "jkt_003_100064",
+    "difficulties": {
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 360,
+        "noteCounts": {
+          "tap": 138,
+          "flick": 0,
+          "trace": 0,
+          "long": 48
+        },
+        "rawFile": "raw/0064_01_normal.json",
+        "otonoteFile": "otonote/music_0064_normal.json",
+        "gameChartFile": "ournotes_game/chart_0064_normal.json"
+      },
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.5,
+        "officialFullCombo": 572,
+        "noteCounts": {
+          "tap": 210,
+          "flick": 0,
+          "trace": 0,
+          "long": 98
+        },
+        "rawFile": "raw/0064_02_hard.json",
+        "otonoteFile": "otonote/music_0064_hard.json",
+        "gameChartFile": "ournotes_game/chart_0064_hard.json"
+      },
+      "easy": {
+        "level": 9,
+        "displayLevel": 9.0,
+        "officialFullCombo": 270,
+        "noteCounts": {
+          "tap": 92,
+          "flick": 0,
+          "trace": 0,
+          "long": 32
+        },
+        "rawFile": "raw/0064_00_easy.json",
+        "otonoteFile": "otonote/music_0064_easy.json",
+        "gameChartFile": "ournotes_game/chart_0064_easy.json"
+      },
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.5,
+        "officialFullCombo": 802,
+        "noteCounts": {
+          "tap": 337,
+          "flick": 67,
+          "trace": 4,
+          "long": 87
+        },
+        "rawFile": "raw/0064_03_expert.json",
+        "otonoteFile": "otonote/music_0064_expert.json",
+        "gameChartFile": "ournotes_game/chart_0064_expert.json"
+      }
+    },
+    "previewStartTime": 81.29,
+    "previewEndTime": 104.52,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0064.zip",
+    "packageSize": 1857258
+  },
+  {
+    "musicId": 66,
+    "title": "ちゅ、多様性。",
+    "subtitle": "Official Track #0066",
+    "band": "梦限大MewType",
+    "lyricist": "あの、真部　脩一",
+    "composer": "真部　脩一",
+    "arranger": "白神真志朗",
+    "bpm": 153.0,
+    "duration": 111.176471,
+    "jacket": "jkt_003_100066",
+    "difficulties": {
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 564,
+        "noteCounts": {
+          "tap": 157,
+          "flick": 52,
+          "trace": 0,
+          "long": 89
+        },
+        "rawFile": "raw/0066_02_hard.json",
+        "otonoteFile": "otonote/music_0066_hard.json",
+        "gameChartFile": "ournotes_game/chart_0066_hard.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 373,
+        "noteCounts": {
+          "tap": 115,
+          "flick": 0,
+          "trace": 0,
+          "long": 41
+        },
+        "rawFile": "raw/0066_01_normal.json",
+        "otonoteFile": "otonote/music_0066_normal.json",
+        "gameChartFile": "ournotes_game/chart_0066_normal.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 252,
+        "noteCounts": {
+          "tap": 68,
+          "flick": 0,
+          "trace": 0,
+          "long": 28
+        },
+        "rawFile": "raw/0066_00_easy.json",
+        "otonoteFile": "otonote/music_0066_easy.json",
+        "gameChartFile": "ournotes_game/chart_0066_easy.json"
+      },
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.0,
+        "officialFullCombo": 689,
+        "noteCounts": {
+          "tap": 358,
+          "flick": 63,
+          "trace": 0,
+          "long": 75
+        },
+        "rawFile": "raw/0066_03_expert.json",
+        "otonoteFile": "otonote/music_0066_expert.json",
+        "gameChartFile": "ournotes_game/chart_0066_expert.json"
+      }
+    },
+    "previewStartTime": 91.7,
+    "previewEndTime": 112.28,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0066.zip",
+    "packageSize": 2023973
+  },
+  {
+    "musicId": 69,
+    "title": "起死开战",
+    "subtitle": "起死開戦",
+    "band": "millsage",
+    "lyricist": "藤井健太郎",
+    "composer": "藤井健太郎",
+    "arranger": "藤井健太郎",
+    "bpm": 170.0,
+    "duration": 108.705882,
+    "jacket": "jkt_004_100069",
+    "difficulties": {
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 420,
+        "noteCounts": {
+          "tap": 115,
+          "flick": 1,
+          "trace": 0,
+          "long": 42
+        },
+        "rawFile": "raw/0069_01_normal.json",
+        "otonoteFile": "otonote/music_0069_normal.json",
+        "gameChartFile": "ournotes_game/chart_0069_normal.json"
+      },
+      "hard": {
+        "level": 21,
+        "displayLevel": 21.0,
+        "officialFullCombo": 675,
+        "noteCounts": {
+          "tap": 237,
+          "flick": 57,
+          "trace": 0,
+          "long": 81
+        },
+        "rawFile": "raw/0069_02_hard.json",
+        "otonoteFile": "otonote/music_0069_hard.json",
+        "gameChartFile": "ournotes_game/chart_0069_hard.json"
+      },
+      "expert": {
+        "level": 28,
+        "displayLevel": 28.0,
+        "officialFullCombo": 874,
+        "noteCounts": {
+          "tap": 407,
+          "flick": 79,
+          "trace": 0,
+          "long": 111
+        },
+        "rawFile": "raw/0069_03_expert.json",
+        "otonoteFile": "otonote/music_0069_expert.json",
+        "gameChartFile": "ournotes_game/chart_0069_expert.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 261,
+        "noteCounts": {
+          "tap": 58,
+          "flick": 0,
+          "trace": 0,
+          "long": 25
+        },
+        "rawFile": "raw/0069_00_easy.json",
+        "otonoteFile": "otonote/music_0069_easy.json",
+        "gameChartFile": "ournotes_game/chart_0069_easy.json"
+      }
+    },
+    "previewStartTime": 28.66,
+    "previewEndTime": 54.06,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0069.zip",
+    "packageSize": 2184680
+  },
+  {
+    "musicId": 70,
+    "title": "everscape",
+    "subtitle": "Official Track #0070",
+    "band": "millsage",
+    "lyricist": "藤井健太郎",
+    "composer": "藤井健太郎、瀬名水紀(Dream Monster)",
+    "arranger": "藤井健太郎",
+    "bpm": 184.0,
+    "duration": 136.90074,
+    "jacket": "jkt_004_100070",
+    "difficulties": {
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 412,
+        "noteCounts": {
+          "tap": 51,
+          "flick": 0,
+          "trace": 0,
+          "long": 31
+        },
+        "rawFile": "raw/0070_00_easy.json",
+        "otonoteFile": "otonote/music_0070_easy.json",
+        "gameChartFile": "ournotes_game/chart_0070_easy.json"
+      },
+      "expert": {
+        "level": 28,
+        "displayLevel": 28.0,
+        "officialFullCombo": 1188,
+        "noteCounts": {
+          "tap": 518,
+          "flick": 61,
+          "trace": 1,
+          "long": 92
+        },
+        "rawFile": "raw/0070_03_expert.json",
+        "otonoteFile": "otonote/music_0070_expert.json",
+        "gameChartFile": "ournotes_game/chart_0070_expert.json"
+      },
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 680,
+        "noteCounts": {
+          "tap": 127,
+          "flick": 2,
+          "trace": 0,
+          "long": 52
+        },
+        "rawFile": "raw/0070_01_normal.json",
+        "otonoteFile": "otonote/music_0070_normal.json",
+        "gameChartFile": "ournotes_game/chart_0070_normal.json"
+      },
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.5,
+        "officialFullCombo": 955,
+        "noteCounts": {
+          "tap": 266,
+          "flick": 46,
+          "trace": 0,
+          "long": 101
+        },
+        "rawFile": "raw/0070_02_hard.json",
+        "otonoteFile": "otonote/music_0070_hard.json",
+        "gameChartFile": "ournotes_game/chart_0070_hard.json"
+      }
+    },
+    "previewStartTime": 34.64,
+    "previewEndTime": 62.5,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0070.zip",
+    "packageSize": 2546925
+  },
+  {
+    "musicId": 71,
+    "title": "鳴らす",
+    "subtitle": "Official Track #0071",
+    "band": "millsage",
+    "lyricist": "瀬名水紀(Dream Monster)",
+    "composer": "瀬名水紀(Dream Monster)",
+    "arranger": "藤井健太郎",
+    "bpm": 188.0,
+    "duration": 90.319149,
+    "jacket": "jkt_004_100071",
+    "difficulties": {
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 380,
+        "noteCounts": {
+          "tap": 54,
+          "flick": 0,
+          "trace": 0,
+          "long": 31
+        },
+        "rawFile": "raw/0071_00_easy.json",
+        "otonoteFile": "otonote/music_0071_easy.json",
+        "gameChartFile": "ournotes_game/chart_0071_easy.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.5,
+        "officialFullCombo": 746,
+        "noteCounts": {
+          "tap": 312,
+          "flick": 68,
+          "trace": 3,
+          "long": 62
+        },
+        "rawFile": "raw/0071_03_expert.json",
+        "otonoteFile": "otonote/music_0071_expert.json",
+        "gameChartFile": "ournotes_game/chart_0071_expert.json"
+      },
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 584,
+        "noteCounts": {
+          "tap": 172,
+          "flick": 26,
+          "trace": 0,
+          "long": 67
+        },
+        "rawFile": "raw/0071_02_hard.json",
+        "otonoteFile": "otonote/music_0071_hard.json",
+        "gameChartFile": "ournotes_game/chart_0071_hard.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 495,
+        "noteCounts": {
+          "tap": 90,
+          "flick": 0,
+          "trace": 0,
+          "long": 50
+        },
+        "rawFile": "raw/0071_01_normal.json",
+        "otonoteFile": "otonote/music_0071_normal.json",
+        "gameChartFile": "ournotes_game/chart_0071_normal.json"
+      }
+    },
+    "previewStartTime": 18.94,
+    "previewEndTime": 51.23,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0071.zip",
+    "packageSize": 1860120
+  },
+  {
+    "musicId": 72,
+    "title": "青のすみか",
+    "subtitle": "Official Track #0072",
+    "band": "millsage",
+    "lyricist": "キタニタツヤ",
+    "composer": "キタニタツヤ",
+    "arranger": "藤井健太郎",
+    "bpm": 152.0,
+    "duration": 90.789474,
+    "jacket": "jkt_004_100072",
+    "difficulties": {
+      "expert": {
+        "level": 21,
+        "displayLevel": 21.0,
+        "officialFullCombo": 617,
+        "noteCounts": {
+          "tap": 235,
+          "flick": 31,
+          "trace": 6,
+          "long": 95
+        },
+        "rawFile": "raw/0072_03_expert.json",
+        "otonoteFile": "otonote/music_0072_expert.json",
+        "gameChartFile": "ournotes_game/chart_0072_expert.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 194,
+        "noteCounts": {
+          "tap": 29,
+          "flick": 0,
+          "trace": 0,
+          "long": 17
+        },
+        "rawFile": "raw/0072_00_easy.json",
+        "otonoteFile": "otonote/music_0072_easy.json",
+        "gameChartFile": "ournotes_game/chart_0072_easy.json"
+      },
+      "hard": {
+        "level": 16,
+        "displayLevel": 16.0,
+        "officialFullCombo": 530,
+        "noteCounts": {
+          "tap": 178,
+          "flick": 8,
+          "trace": 0,
+          "long": 86
+        },
+        "rawFile": "raw/0072_02_hard.json",
+        "otonoteFile": "otonote/music_0072_hard.json",
+        "gameChartFile": "ournotes_game/chart_0072_hard.json"
+      },
+      "normal": {
+        "level": 10,
+        "displayLevel": 10.0,
+        "officialFullCombo": 466,
+        "noteCounts": {
+          "tap": 37,
+          "flick": 2,
+          "trace": 0,
+          "long": 57
+        },
+        "rawFile": "raw/0072_01_normal.json",
+        "otonoteFile": "otonote/music_0072_normal.json",
+        "gameChartFile": "ournotes_game/chart_0072_normal.json"
+      }
+    },
+    "previewStartTime": 73.6,
+    "previewEndTime": 95.29,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0072.zip",
+    "packageSize": 1824428
+  },
+  {
+    "musicId": 74,
+    "title": "Pretender",
+    "subtitle": "Official Track #0074",
+    "band": "millsage",
+    "lyricist": "藤原 聡",
+    "composer": "藤原 聡",
+    "arranger": "石倉まろ",
+    "bpm": 92.0,
+    "duration": 127.663043,
+    "jacket": "jkt_004_100074",
+    "difficulties": {
+      "expert": {
+        "level": 22,
+        "displayLevel": 22.0,
+        "officialFullCombo": 608,
+        "noteCounts": {
+          "tap": 281,
+          "flick": 35,
+          "trace": 0,
+          "long": 108
+        },
+        "rawFile": "raw/0074_03_expert.json",
+        "otonoteFile": "otonote/music_0074_expert.json",
+        "gameChartFile": "ournotes_game/chart_0074_expert.json"
+      },
+      "easy": {
+        "level": 5,
+        "displayLevel": 5.0,
+        "officialFullCombo": 174,
+        "noteCounts": {
+          "tap": 50,
+          "flick": 0,
+          "trace": 0,
+          "long": 18
+        },
+        "rawFile": "raw/0074_00_easy.json",
+        "otonoteFile": "otonote/music_0074_easy.json",
+        "gameChartFile": "ournotes_game/chart_0074_easy.json"
+      },
+      "normal": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 354,
+        "noteCounts": {
+          "tap": 84,
+          "flick": 0,
+          "trace": 0,
+          "long": 42
+        },
+        "rawFile": "raw/0074_01_normal.json",
+        "otonoteFile": "otonote/music_0074_normal.json",
+        "gameChartFile": "ournotes_game/chart_0074_normal.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 482,
+        "noteCounts": {
+          "tap": 261,
+          "flick": 13,
+          "trace": 0,
+          "long": 61
+        },
+        "rawFile": "raw/0074_02_hard.json",
+        "otonoteFile": "otonote/music_0074_hard.json",
+        "gameChartFile": "ournotes_game/chart_0074_hard.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 44.88,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0074.zip",
+    "packageSize": 2343759
+  },
+  {
+    "musicId": 75,
+    "title": "unravel",
+    "subtitle": "Official Track #0075",
+    "band": "millsage",
+    "lyricist": "TK",
+    "composer": "TK",
+    "arranger": "藤井健太郎",
+    "bpm": 135.0,
+    "duration": 87.0,
+    "jacket": "jkt_004_100075",
+    "difficulties": {
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.5,
+        "officialFullCombo": 441,
+        "noteCounts": {
+          "tap": 227,
+          "flick": 34,
+          "trace": 0,
+          "long": 54
+        },
+        "rawFile": "raw/0075_03_expert.json",
+        "otonoteFile": "otonote/music_0075_expert.json",
+        "gameChartFile": "ournotes_game/chart_0075_expert.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 255,
+        "noteCounts": {
+          "tap": 86,
+          "flick": 4,
+          "trace": 0,
+          "long": 44
+        },
+        "rawFile": "raw/0075_01_normal.json",
+        "otonoteFile": "otonote/music_0075_normal.json",
+        "gameChartFile": "ournotes_game/chart_0075_normal.json"
+      },
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 336,
+        "noteCounts": {
+          "tap": 143,
+          "flick": 20,
+          "trace": 0,
+          "long": 54
+        },
+        "rawFile": "raw/0075_02_hard.json",
+        "otonoteFile": "otonote/music_0075_hard.json",
+        "gameChartFile": "ournotes_game/chart_0075_hard.json"
+      },
+      "easy": {
+        "level": 5,
+        "displayLevel": 5.0,
+        "officialFullCombo": 142,
+        "noteCounts": {
+          "tap": 36,
+          "flick": 0,
+          "trace": 0,
+          "long": 17
+        },
+        "rawFile": "raw/0075_00_easy.json",
+        "otonoteFile": "otonote/music_0075_easy.json",
+        "gameChartFile": "ournotes_game/chart_0075_easy.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 28.0,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0075.zip",
+    "packageSize": 1652766
+  },
+  {
+    "musicId": 76,
+    "title": "ロウワー",
+    "subtitle": "Official Track #0076",
+    "band": "millsage",
+    "lyricist": "ぬゆり",
+    "composer": "ぬゆり",
+    "arranger": "太田雄大",
+    "bpm": 135.0,
+    "duration": 91.555556,
+    "jacket": "jkt_004_100076",
+    "difficulties": {
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 163,
+        "noteCounts": {
+          "tap": 32,
+          "flick": 0,
+          "trace": 0,
+          "long": 22
+        },
+        "rawFile": "raw/0076_00_easy.json",
+        "otonoteFile": "otonote/music_0076_easy.json",
+        "gameChartFile": "ournotes_game/chart_0076_easy.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.3,
+        "officialFullCombo": 772,
+        "noteCounts": {
+          "tap": 437,
+          "flick": 44,
+          "trace": 0,
+          "long": 123
+        },
+        "rawFile": "raw/0076_03_expert.json",
+        "otonoteFile": "otonote/music_0076_expert.json",
+        "gameChartFile": "ournotes_game/chart_0076_expert.json"
+      },
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 597,
+        "noteCounts": {
+          "tap": 269,
+          "flick": 18,
+          "trace": 0,
+          "long": 116
+        },
+        "rawFile": "raw/0076_02_hard.json",
+        "otonoteFile": "otonote/music_0076_hard.json",
+        "gameChartFile": "ournotes_game/chart_0076_hard.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 377,
+        "noteCounts": {
+          "tap": 106,
+          "flick": 0,
+          "trace": 0,
+          "long": 72
+        },
+        "rawFile": "raw/0076_01_normal.json",
+        "otonoteFile": "otonote/music_0076_normal.json",
+        "gameChartFile": "ournotes_game/chart_0076_normal.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 16.94,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0076.zip",
+    "packageSize": 2109561
+  },
+  {
+    "musicId": 80,
+    "title": "Homie’s Tie!!",
+    "subtitle": "ホーミー・タイッ！！",
+    "band": "一家Dumb Rock!",
+    "lyricist": "藤井健太郎",
+    "composer": "藤井健太郎",
+    "arranger": "藤井健太郎",
+    "bpm": 128.0,
+    "duration": 101.132812,
+    "jacket": "jkt_005_100080",
+    "difficulties": {
+      "hard": {
+        "level": 22,
+        "displayLevel": 22.0,
+        "officialFullCombo": 449,
+        "noteCounts": {
+          "tap": 211,
+          "flick": 31,
+          "trace": 0,
+          "long": 70
+        },
+        "rawFile": "raw/0080_02_hard.json",
+        "otonoteFile": "otonote/music_0080_hard.json",
+        "gameChartFile": "ournotes_game/chart_0080_hard.json"
+      },
+      "normal": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 268,
+        "noteCounts": {
+          "tap": 128,
+          "flick": 0,
+          "trace": 0,
+          "long": 44
+        },
+        "rawFile": "raw/0080_01_normal.json",
+        "otonoteFile": "otonote/music_0080_normal.json",
+        "gameChartFile": "ournotes_game/chart_0080_normal.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.5,
+        "officialFullCombo": 650,
+        "noteCounts": {
+          "tap": 407,
+          "flick": 99,
+          "trace": 0,
+          "long": 63
+        },
+        "rawFile": "raw/0080_03_expert.json",
+        "otonoteFile": "otonote/music_0080_expert.json",
+        "gameChartFile": "ournotes_game/chart_0080_expert.json"
+      },
+      "easy": {
+        "level": 10,
+        "displayLevel": 10.0,
+        "officialFullCombo": 166,
+        "noteCounts": {
+          "tap": 51,
+          "flick": 0,
+          "trace": 0,
+          "long": 23
+        },
+        "rawFile": "raw/0080_00_easy.json",
+        "otonoteFile": "otonote/music_0080_easy.json",
+        "gameChartFile": "ournotes_game/chart_0080_easy.json"
+      }
+    },
+    "previewStartTime": 48.41,
+    "previewEndTime": 78.07,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0080.zip",
+    "packageSize": 2005612
+  },
+  {
+    "musicId": 81,
+    "title": "ジャイアント・キラー・チューン",
+    "subtitle": "Official Track #0081",
+    "band": "一家Dumb Rock!",
+    "lyricist": "藤井健太郎",
+    "composer": "藤井健太郎",
+    "arranger": "藤井健太郎",
+    "bpm": 135.0,
+    "duration": 101.222222,
+    "jacket": "jkt_005_100081",
+    "difficulties": {
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 470,
+        "noteCounts": {
+          "tap": 121,
+          "flick": 0,
+          "trace": 0,
+          "long": 63
+        },
+        "rawFile": "raw/0081_01_normal.json",
+        "otonoteFile": "otonote/music_0081_normal.json",
+        "gameChartFile": "ournotes_game/chart_0081_normal.json"
+      },
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.0,
+        "officialFullCombo": 549,
+        "noteCounts": {
+          "tap": 169,
+          "flick": 0,
+          "trace": 0,
+          "long": 89
+        },
+        "rawFile": "raw/0081_02_hard.json",
+        "otonoteFile": "otonote/music_0081_hard.json",
+        "gameChartFile": "ournotes_game/chart_0081_hard.json"
+      },
+      "easy": {
+        "level": 5,
+        "displayLevel": 5.0,
+        "officialFullCombo": 143,
+        "noteCounts": {
+          "tap": 28,
+          "flick": 0,
+          "trace": 0,
+          "long": 13
+        },
+        "rawFile": "raw/0081_00_easy.json",
+        "otonoteFile": "otonote/music_0081_easy.json",
+        "gameChartFile": "ournotes_game/chart_0081_easy.json"
+      },
+      "expert": {
+        "level": 23,
+        "displayLevel": 23.0,
+        "officialFullCombo": 657,
+        "noteCounts": {
+          "tap": 232,
+          "flick": 18,
+          "trace": 0,
+          "long": 110
+        },
+        "rawFile": "raw/0081_03_expert.json",
+        "otonoteFile": "otonote/music_0081_expert.json",
+        "gameChartFile": "ournotes_game/chart_0081_expert.json"
+      }
+    },
+    "previewStartTime": 51.33,
+    "previewEndTime": 80.9,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0081.zip",
+    "packageSize": 1901729
+  },
+  {
+    "musicId": 82,
+    "title": "Peaceful Pieces!",
+    "subtitle": "ピースフル・ピーシーズ！",
+    "band": "一家Dumb Rock!",
+    "lyricist": "藤井健太郎",
+    "composer": "藤井健太郎",
+    "arranger": "藤井健太郎",
+    "bpm": 130.0,
+    "duration": 113.538462,
+    "jacket": "jkt_005_100082",
+    "difficulties": {
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 269,
+        "noteCounts": {
+          "tap": 49,
+          "flick": 0,
+          "trace": 0,
+          "long": 42
+        },
+        "rawFile": "raw/0082_00_easy.json",
+        "otonoteFile": "otonote/music_0082_easy.json",
+        "gameChartFile": "ournotes_game/chart_0082_easy.json"
+      },
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 543,
+        "noteCounts": {
+          "tap": 104,
+          "flick": 3,
+          "trace": 0,
+          "long": 104
+        },
+        "rawFile": "raw/0082_01_normal.json",
+        "otonoteFile": "otonote/music_0082_normal.json",
+        "gameChartFile": "ournotes_game/chart_0082_normal.json"
+      },
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.0,
+        "officialFullCombo": 624,
+        "noteCounts": {
+          "tap": 263,
+          "flick": 41,
+          "trace": 0,
+          "long": 107
+        },
+        "rawFile": "raw/0082_02_hard.json",
+        "otonoteFile": "otonote/music_0082_hard.json",
+        "gameChartFile": "ournotes_game/chart_0082_hard.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.9,
+        "officialFullCombo": 848,
+        "noteCounts": {
+          "tap": 453,
+          "flick": 104,
+          "trace": 5,
+          "long": 106
+        },
+        "rawFile": "raw/0082_03_expert.json",
+        "otonoteFile": "otonote/music_0082_expert.json",
+        "gameChartFile": "ournotes_game/chart_0082_expert.json"
+      }
+    },
+    "previewStartTime": 62.89,
+    "previewEndTime": 99.67,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0082.zip",
+    "packageSize": 2154090
+  },
+  {
+    "musicId": 83,
+    "title": "Mela!",
+    "subtitle": "Official Track #0083",
+    "band": "一家Dumb Rock!",
+    "lyricist": "長屋 晴子／小林 壱誓",
+    "composer": "peppe／穴見　真吾",
+    "arranger": "石倉まろ",
+    "bpm": 138.0,
+    "duration": 108.26087,
+    "jacket": "jkt_005_100083",
+    "difficulties": {
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 639,
+        "noteCounts": {
+          "tap": 217,
+          "flick": 25,
+          "trace": 0,
+          "long": 98
+        },
+        "rawFile": "raw/0083_02_hard.json",
+        "otonoteFile": "otonote/music_0083_hard.json",
+        "gameChartFile": "ournotes_game/chart_0083_hard.json"
+      },
+      "easy": {
+        "level": 5,
+        "displayLevel": 5.0,
+        "officialFullCombo": 241,
+        "noteCounts": {
+          "tap": 36,
+          "flick": 0,
+          "trace": 0,
+          "long": 26
+        },
+        "rawFile": "raw/0083_00_easy.json",
+        "otonoteFile": "otonote/music_0083_easy.json",
+        "gameChartFile": "ournotes_game/chart_0083_easy.json"
+      },
+      "expert": {
+        "level": 23,
+        "displayLevel": 23.0,
+        "officialFullCombo": 670,
+        "noteCounts": {
+          "tap": 291,
+          "flick": 38,
+          "trace": 0,
+          "long": 88
+        },
+        "rawFile": "raw/0083_03_expert.json",
+        "otonoteFile": "otonote/music_0083_expert.json",
+        "gameChartFile": "ournotes_game/chart_0083_expert.json"
+      },
+      "normal": {
+        "level": 10,
+        "displayLevel": 10.0,
+        "officialFullCombo": 339,
+        "noteCounts": {
+          "tap": 102,
+          "flick": 0,
+          "trace": 0,
+          "long": 41
+        },
+        "rawFile": "raw/0083_01_normal.json",
+        "otonoteFile": "otonote/music_0083_normal.json",
+        "gameChartFile": "ournotes_game/chart_0083_normal.json"
+      }
+    },
+    "previewStartTime": 56.5,
+    "previewEndTime": 92.11,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0083.zip",
+    "packageSize": 2039619
+  },
+  {
+    "musicId": 85,
+    "title": "サムライハート(Some Like It Hot!!)",
+    "subtitle": "Official Track #0085",
+    "band": "一家Dumb Rock!",
+    "lyricist": "MOMIKEN",
+    "composer": "UZ",
+    "arranger": "藤井健太郎",
+    "bpm": 113.0,
+    "duration": 123.185841,
+    "jacket": "jkt_005_100085",
+    "difficulties": {
+      "expert": {
+        "level": 23,
+        "displayLevel": 23.0,
+        "officialFullCombo": 712,
+        "noteCounts": {
+          "tap": 239,
+          "flick": 16,
+          "trace": 0,
+          "long": 134
+        },
+        "rawFile": "raw/0085_03_expert.json",
+        "otonoteFile": "otonote/music_0085_expert.json",
+        "gameChartFile": "ournotes_game/chart_0085_expert.json"
+      },
+      "easy": {
+        "level": 5,
+        "displayLevel": 5.0,
+        "officialFullCombo": 230,
+        "noteCounts": {
+          "tap": 42,
+          "flick": 0,
+          "trace": 0,
+          "long": 28
+        },
+        "rawFile": "raw/0085_00_easy.json",
+        "otonoteFile": "otonote/music_0085_easy.json",
+        "gameChartFile": "ournotes_game/chart_0085_easy.json"
+      },
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 376,
+        "noteCounts": {
+          "tap": 104,
+          "flick": 0,
+          "trace": 0,
+          "long": 40
+        },
+        "rawFile": "raw/0085_01_normal.json",
+        "otonoteFile": "otonote/music_0085_normal.json",
+        "gameChartFile": "ournotes_game/chart_0085_normal.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 579,
+        "noteCounts": {
+          "tap": 152,
+          "flick": 19,
+          "trace": 0,
+          "long": 108
+        },
+        "rawFile": "raw/0085_02_hard.json",
+        "otonoteFile": "otonote/music_0085_hard.json",
+        "gameChartFile": "ournotes_game/chart_0085_hard.json"
+      }
+    },
+    "previewStartTime": 55.42,
+    "previewEndTime": 76.67,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0085.zip",
+    "packageSize": 2203026
+  },
+  {
+    "musicId": 87,
+    "title": "イケナイ太陽",
+    "subtitle": "Official Track #0087",
+    "band": "一家Dumb Rock!",
+    "lyricist": "ORANGE RANGE",
+    "composer": "ORANGE RANGE",
+    "arranger": "藤井健太郎",
+    "bpm": 145.0,
+    "duration": 111.724138,
+    "jacket": "jkt_005_100087",
+    "difficulties": {
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 236,
+        "noteCounts": {
+          "tap": 47,
+          "flick": 0,
+          "trace": 0,
+          "long": 38
+        },
+        "rawFile": "raw/0087_00_easy.json",
+        "otonoteFile": "otonote/music_0087_easy.json",
+        "gameChartFile": "ournotes_game/chart_0087_easy.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 573,
+        "noteCounts": {
+          "tap": 134,
+          "flick": 3,
+          "trace": 0,
+          "long": 79
+        },
+        "rawFile": "raw/0087_01_normal.json",
+        "otonoteFile": "otonote/music_0087_normal.json",
+        "gameChartFile": "ournotes_game/chart_0087_normal.json"
+      },
+      "expert": {
+        "level": 21,
+        "displayLevel": 21.0,
+        "officialFullCombo": 709,
+        "noteCounts": {
+          "tap": 277,
+          "flick": 33,
+          "trace": 0,
+          "long": 116
+        },
+        "rawFile": "raw/0087_03_expert.json",
+        "otonoteFile": "otonote/music_0087_expert.json",
+        "gameChartFile": "ournotes_game/chart_0087_expert.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 662,
+        "noteCounts": {
+          "tap": 211,
+          "flick": 20,
+          "trace": 0,
+          "long": 96
+        },
+        "rawFile": "raw/0087_02_hard.json",
+        "otonoteFile": "otonote/music_0087_hard.json",
+        "gameChartFile": "ournotes_game/chart_0087_hard.json"
+      }
+    },
+    "previewStartTime": 74.71,
+    "previewEndTime": 109.19,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0087.zip",
+    "packageSize": 2232168
+  },
+  {
+    "musicId": 88,
+    "title": "革命道中",
+    "subtitle": "Official Track #0088",
+    "band": "一家Dumb Rock!",
+    "lyricist": "アイナ・ジ・エンド、Shin Sakiura",
+    "composer": "アイナ・ジ・エンド、Shin Sakiura",
+    "arranger": "牧野太洋",
+    "bpm": 186.0,
+    "duration": 135.483871,
+    "jacket": "jkt_005_100088",
+    "difficulties": {
+      "expert": {
+        "level": 23,
+        "displayLevel": 23.5,
+        "officialFullCombo": 928,
+        "noteCounts": {
+          "tap": 340,
+          "flick": 141,
+          "trace": 0,
+          "long": 95
+        },
+        "rawFile": "raw/0088_03_expert.json",
+        "otonoteFile": "otonote/music_0088_expert.json",
+        "gameChartFile": "ournotes_game/chart_0088_expert.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 812,
+        "noteCounts": {
+          "tap": 268,
+          "flick": 67,
+          "trace": 0,
+          "long": 99
+        },
+        "rawFile": "raw/0088_02_hard.json",
+        "otonoteFile": "otonote/music_0088_hard.json",
+        "gameChartFile": "ournotes_game/chart_0088_hard.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 325,
+        "noteCounts": {
+          "tap": 68,
+          "flick": 0,
+          "trace": 0,
+          "long": 25
+        },
+        "rawFile": "raw/0088_00_easy.json",
+        "otonoteFile": "otonote/music_0088_easy.json",
+        "gameChartFile": "ournotes_game/chart_0088_easy.json"
+      },
+      "normal": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 523,
+        "noteCounts": {
+          "tap": 101,
+          "flick": 0,
+          "trace": 0,
+          "long": 62
+        },
+        "rawFile": "raw/0088_01_normal.json",
+        "otonoteFile": "otonote/music_0088_normal.json",
+        "gameChartFile": "ournotes_game/chart_0088_normal.json"
+      }
+    },
+    "previewStartTime": 43.6,
+    "previewEndTime": 64.33,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0088.zip",
+    "packageSize": 2387959
+  },
+  {
+    "musicId": 91,
+    "title": "春日影",
+    "subtitle": "Official Track #0091",
+    "band": "BanG Dream!",
+    "lyricist": "織田あすか（Elements Garden）",
+    "composer": "藤田淳平（Elements Garden）",
+    "arranger": "藤田淳平（Elements Garden）",
+    "bpm": 97.0,
+    "duration": 118.762887,
+    "jacket": "jkt_100_100091",
+    "difficulties": {
+      "hard": {
+        "level": 16,
+        "displayLevel": 16.0,
+        "officialFullCombo": 497,
+        "noteCounts": {
+          "tap": 202,
+          "flick": 1,
+          "trace": 0,
+          "long": 84
+        },
+        "rawFile": "raw/0091_02_hard.json",
+        "otonoteFile": "otonote/music_0091_hard.json",
+        "gameChartFile": "ournotes_game/chart_0091_hard.json"
+      },
+      "expert": {
+        "level": 22,
+        "displayLevel": 22.5,
+        "officialFullCombo": 628,
+        "noteCounts": {
+          "tap": 319,
+          "flick": 16,
+          "trace": 0,
+          "long": 69
+        },
+        "rawFile": "raw/0091_03_expert.json",
+        "otonoteFile": "otonote/music_0091_expert.json",
+        "gameChartFile": "ournotes_game/chart_0091_expert.json"
+      },
+      "easy": {
+        "level": 5,
+        "displayLevel": 5.0,
+        "officialFullCombo": 181,
+        "noteCounts": {
+          "tap": 43,
+          "flick": 0,
+          "trace": 0,
+          "long": 24
+        },
+        "rawFile": "raw/0091_00_easy.json",
+        "otonoteFile": "otonote/music_0091_easy.json",
+        "gameChartFile": "ournotes_game/chart_0091_easy.json"
+      },
+      "normal": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 365,
+        "noteCounts": {
+          "tap": 140,
+          "flick": 0,
+          "trace": 0,
+          "long": 55
+        },
+        "rawFile": "raw/0091_01_normal.json",
+        "otonoteFile": "otonote/music_0091_normal.json",
+        "gameChartFile": "ournotes_game/chart_0091_normal.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 32.43,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0091.zip",
+    "packageSize": 2150108
+  },
+  {
+    "musicId": 92,
+    "title": "in your blue eyes",
+    "subtitle": "碧い瞳の中に",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "Diggy-MO’、松坂康司(SUPA LOVE)",
+    "arranger": "Diggy-MO’、松坂康司(SUPA LOVE)",
+    "bpm": 145.0,
+    "duration": 88.137931,
+    "jacket": "jkt_002_100092",
+    "difficulties": {
+      "easy": {
+        "level": 5,
+        "displayLevel": 5.0,
+        "officialFullCombo": 185,
+        "noteCounts": {
+          "tap": 24,
+          "flick": 0,
+          "trace": 0,
+          "long": 23
+        },
+        "rawFile": "raw/0092_00_easy.json",
+        "otonoteFile": "otonote/music_0092_easy.json",
+        "gameChartFile": "ournotes_game/chart_0092_easy.json"
+      },
+      "hard": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 416,
+        "noteCounts": {
+          "tap": 99,
+          "flick": 7,
+          "trace": 0,
+          "long": 48
+        },
+        "rawFile": "raw/0092_02_hard.json",
+        "otonoteFile": "otonote/music_0092_hard.json",
+        "gameChartFile": "ournotes_game/chart_0092_hard.json"
+      },
+      "expert": {
+        "level": 21,
+        "displayLevel": 21.0,
+        "officialFullCombo": 497,
+        "noteCounts": {
+          "tap": 204,
+          "flick": 5,
+          "trace": 0,
+          "long": 46
+        },
+        "rawFile": "raw/0092_03_expert.json",
+        "otonoteFile": "otonote/music_0092_expert.json",
+        "gameChartFile": "ournotes_game/chart_0092_expert.json"
+      },
+      "normal": {
+        "level": 9,
+        "displayLevel": 9.0,
+        "officialFullCombo": 342,
+        "noteCounts": {
+          "tap": 29,
+          "flick": 0,
+          "trace": 0,
+          "long": 41
+        },
+        "rawFile": "raw/0092_01_normal.json",
+        "otonoteFile": "otonote/music_0092_normal.json",
+        "gameChartFile": "ournotes_game/chart_0092_normal.json"
+      }
+    },
+    "previewStartTime": 75.73,
+    "previewEndTime": 98.83,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0092.zip",
+    "packageSize": 1743865
+  },
+  {
+    "musicId": 93,
+    "title": "往栏印",
+    "subtitle": "往欄印",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原優樹(SUPA LOVE)",
+    "composer": "長谷川大介(SUPA LOVE)",
+    "arranger": "長谷川大介(SUPA LOVE)",
+    "bpm": 180.0,
+    "duration": 137.523529,
+    "jacket": "jkt_001_100093",
+    "difficulties": {
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 421,
+        "noteCounts": {
+          "tap": 69,
+          "flick": 0,
+          "trace": 0,
+          "long": 40
+        },
+        "rawFile": "raw/0093_00_easy.json",
+        "otonoteFile": "otonote/music_0093_easy.json",
+        "gameChartFile": "ournotes_game/chart_0093_easy.json"
+      },
+      "hard": {
+        "level": 23,
+        "displayLevel": 23.0,
+        "officialFullCombo": 957,
+        "noteCounts": {
+          "tap": 333,
+          "flick": 76,
+          "trace": 0,
+          "long": 138
+        },
+        "rawFile": "raw/0093_02_hard.json",
+        "otonoteFile": "otonote/music_0093_hard.json",
+        "gameChartFile": "ournotes_game/chart_0093_hard.json"
+      },
+      "expert": {
+        "level": 28,
+        "displayLevel": 28.0,
+        "officialFullCombo": 1269,
+        "noteCounts": {
+          "tap": 591,
+          "flick": 89,
+          "trace": 0,
+          "long": 171
+        },
+        "rawFile": "raw/0093_03_expert.json",
+        "otonoteFile": "otonote/music_0093_expert.json",
+        "gameChartFile": "ournotes_game/chart_0093_expert.json"
+      },
+      "normal": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 814,
+        "noteCounts": {
+          "tap": 164,
+          "flick": 0,
+          "trace": 0,
+          "long": 100
+        },
+        "rawFile": "raw/0093_01_normal.json",
+        "otonoteFile": "otonote/music_0093_normal.json",
+        "gameChartFile": "ournotes_game/chart_0093_normal.json"
+      }
+    },
+    "previewStartTime": 90.6,
+    "previewEndTime": 123.05,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0093.zip",
+    "packageSize": 2564253
+  },
+  {
+    "musicId": 94,
+    "title": "TearJerker",
+    "subtitle": "Official Track #0094",
+    "band": "梦限大MewType",
+    "lyricist": "sabio",
+    "composer": "sabio",
+    "arranger": "sabio",
+    "bpm": 148.0,
+    "duration": 122.837838,
+    "jacket": "jkt_003_100094",
+    "difficulties": {
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 430,
+        "noteCounts": {
+          "tap": 155,
+          "flick": 0,
+          "trace": 0,
+          "long": 68
+        },
+        "rawFile": "raw/0094_01_normal.json",
+        "otonoteFile": "otonote/music_0094_normal.json",
+        "gameChartFile": "ournotes_game/chart_0094_normal.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 295,
+        "noteCounts": {
+          "tap": 90,
+          "flick": 0,
+          "trace": 0,
+          "long": 34
+        },
+        "rawFile": "raw/0094_00_easy.json",
+        "otonoteFile": "otonote/music_0094_easy.json",
+        "gameChartFile": "ournotes_game/chart_0094_easy.json"
+      },
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 626,
+        "noteCounts": {
+          "tap": 240,
+          "flick": 4,
+          "trace": 0,
+          "long": 107
+        },
+        "rawFile": "raw/0094_02_hard.json",
+        "otonoteFile": "otonote/music_0094_hard.json",
+        "gameChartFile": "ournotes_game/chart_0094_hard.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.5,
+        "officialFullCombo": 813,
+        "noteCounts": {
+          "tap": 403,
+          "flick": 90,
+          "trace": 2,
+          "long": 96
+        },
+        "rawFile": "raw/0094_03_expert.json",
+        "otonoteFile": "otonote/music_0094_expert.json",
+        "gameChartFile": "ournotes_game/chart_0094_expert.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 32.21,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0094.zip",
+    "packageSize": 2356036
+  },
+  {
+    "musicId": 95,
+    "title": "Face The Next",
+    "subtitle": "Official Track #0095",
+    "band": "梦限大MewType",
+    "lyricist": "白神真志朗、仲町阿拉蕾",
+    "composer": "白神真志朗、千石由乃",
+    "arranger": "白神真志朗、千石由乃",
+    "bpm": 204.0,
+    "duration": 135.294118,
+    "jacket": "jkt_003_100095",
+    "difficulties": {
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.5,
+        "officialFullCombo": 874,
+        "noteCounts": {
+          "tap": 504,
+          "flick": 121,
+          "trace": 0,
+          "long": 61
+        },
+        "rawFile": "raw/0095_03_expert.json",
+        "otonoteFile": "otonote/music_0095_expert.json",
+        "gameChartFile": "ournotes_game/chart_0095_expert.json"
+      },
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 785,
+        "noteCounts": {
+          "tap": 397,
+          "flick": 49,
+          "trace": 0,
+          "long": 85
+        },
+        "rawFile": "raw/0095_02_hard.json",
+        "otonoteFile": "otonote/music_0095_hard.json",
+        "gameChartFile": "ournotes_game/chart_0095_hard.json"
+      },
+      "easy": {
+        "level": 8,
+        "displayLevel": 8.0,
+        "officialFullCombo": 386,
+        "noteCounts": {
+          "tap": 103,
+          "flick": 0,
+          "trace": 0,
+          "long": 32
+        },
+        "rawFile": "raw/0095_00_easy.json",
+        "otonoteFile": "otonote/music_0095_easy.json",
+        "gameChartFile": "ournotes_game/chart_0095_easy.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 510,
+        "noteCounts": {
+          "tap": 223,
+          "flick": 0,
+          "trace": 0,
+          "long": 55
+        },
+        "rawFile": "raw/0095_01_normal.json",
+        "otonoteFile": "otonote/music_0095_normal.json",
+        "gameChartFile": "ournotes_game/chart_0095_normal.json"
+      }
+    },
+    "previewStartTime": 118.87,
+    "previewEndTime": 137.01,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0095.zip",
+    "packageSize": 2583968
+  },
+  {
+    "musicId": 96,
+    "title": "The Whole Blue World",
+    "subtitle": "Official Track #0096",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "Diggy-MO’、植木建象",
+    "arranger": "Diggy-MO’",
+    "bpm": 200.0,
+    "duration": 96.15,
+    "jacket": "jkt_002_100096",
+    "difficulties": {
+      "easy": {
+        "level": 10,
+        "displayLevel": 10.0,
+        "officialFullCombo": 255,
+        "noteCounts": {
+          "tap": 84,
+          "flick": 0,
+          "trace": 0,
+          "long": 27
+        },
+        "rawFile": "raw/0096_00_easy.json",
+        "otonoteFile": "otonote/music_0096_easy.json",
+        "gameChartFile": "ournotes_game/chart_0096_easy.json"
+      },
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 647,
+        "noteCounts": {
+          "tap": 243,
+          "flick": 28,
+          "trace": 0,
+          "long": 92
+        },
+        "rawFile": "raw/0096_02_hard.json",
+        "otonoteFile": "otonote/music_0096_hard.json",
+        "gameChartFile": "ournotes_game/chart_0096_hard.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 440,
+        "noteCounts": {
+          "tap": 133,
+          "flick": 0,
+          "trace": 0,
+          "long": 43
+        },
+        "rawFile": "raw/0096_01_normal.json",
+        "otonoteFile": "otonote/music_0096_normal.json",
+        "gameChartFile": "ournotes_game/chart_0096_normal.json"
+      },
+      "expert": {
+        "level": 27,
+        "displayLevel": 27.0,
+        "officialFullCombo": 850,
+        "noteCounts": {
+          "tap": 438,
+          "flick": 94,
+          "trace": 0,
+          "long": 82
+        },
+        "rawFile": "raw/0096_03_expert.json",
+        "otonoteFile": "otonote/music_0096_expert.json",
+        "gameChartFile": "ournotes_game/chart_0096_expert.json"
+      }
+    },
+    "previewStartTime": 55.76,
+    "previewEndTime": 78.38,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0096.zip",
+    "packageSize": 1880647
+  },
+  {
+    "musicId": 97,
+    "title": "in my words",
+    "subtitle": "Official Track #0097",
+    "band": "梦限大MewType",
+    "lyricist": "白神真志朗",
+    "composer": "白神真志朗",
+    "arranger": "白神真志朗",
+    "bpm": 137.0,
+    "duration": 121.970803,
+    "jacket": "jkt_003_100097",
+    "difficulties": {
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 621,
+        "noteCounts": {
+          "tap": 168,
+          "flick": 26,
+          "trace": 0,
+          "long": 96
+        },
+        "rawFile": "raw/0097_02_hard.json",
+        "otonoteFile": "otonote/music_0097_hard.json",
+        "gameChartFile": "ournotes_game/chart_0097_hard.json"
+      },
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 487,
+        "noteCounts": {
+          "tap": 109,
+          "flick": 0,
+          "trace": 0,
+          "long": 71
+        },
+        "rawFile": "raw/0097_01_normal.json",
+        "otonoteFile": "otonote/music_0097_normal.json",
+        "gameChartFile": "ournotes_game/chart_0097_normal.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.5,
+        "officialFullCombo": 770,
+        "noteCounts": {
+          "tap": 372,
+          "flick": 54,
+          "trace": 2,
+          "long": 109
+        },
+        "rawFile": "raw/0097_03_expert.json",
+        "otonoteFile": "otonote/music_0097_expert.json",
+        "gameChartFile": "ournotes_game/chart_0097_expert.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 219,
+        "noteCounts": {
+          "tap": 52,
+          "flick": 0,
+          "trace": 0,
+          "long": 29
+        },
+        "rawFile": "raw/0097_00_easy.json",
+        "otonoteFile": "otonote/music_0097_easy.json",
+        "gameChartFile": "ournotes_game/chart_0097_easy.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 32.15,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0097.zip",
+    "packageSize": 2103517
+  },
+  {
+    "musicId": 98,
+    "title": "爱是冲动",
+    "subtitle": "愛は衝動",
+    "band": "梦限大MewType",
+    "lyricist": "sabio",
+    "composer": "sabio",
+    "arranger": "sabio",
+    "bpm": 90.0,
+    "duration": 121.5,
+    "jacket": "jkt_003_100098",
+    "difficulties": {
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 583,
+        "noteCounts": {
+          "tap": 265,
+          "flick": 21,
+          "trace": 0,
+          "long": 68
+        },
+        "rawFile": "raw/0098_02_hard.json",
+        "otonoteFile": "otonote/music_0098_hard.json",
+        "gameChartFile": "ournotes_game/chart_0098_hard.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 243,
+        "noteCounts": {
+          "tap": 58,
+          "flick": 0,
+          "trace": 0,
+          "long": 23
+        },
+        "rawFile": "raw/0098_00_easy.json",
+        "otonoteFile": "otonote/music_0098_easy.json",
+        "gameChartFile": "ournotes_game/chart_0098_easy.json"
+      },
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.0,
+        "officialFullCombo": 767,
+        "noteCounts": {
+          "tap": 384,
+          "flick": 69,
+          "trace": 0,
+          "long": 74
+        },
+        "rawFile": "raw/0098_03_expert.json",
+        "otonoteFile": "otonote/music_0098_expert.json",
+        "gameChartFile": "ournotes_game/chart_0098_expert.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 310,
+        "noteCounts": {
+          "tap": 139,
+          "flick": 0,
+          "trace": 0,
+          "long": 26
+        },
+        "rawFile": "raw/0098_01_normal.json",
+        "otonoteFile": "otonote/music_0098_normal.json",
+        "gameChartFile": "ournotes_game/chart_0098_normal.json"
+      }
+    },
+    "previewStartTime": 103.22,
+    "previewEndTime": 126.55,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0098.zip",
+    "packageSize": 2329966
+  },
+  {
+    "musicId": 104,
+    "title": "微笑みの爆弾",
+    "subtitle": "Official Track #0104",
+    "band": "一家Dumb Rock!",
+    "lyricist": "リーシャウロン",
+    "composer": "馬渡松子",
+    "arranger": "牧野太洋",
+    "bpm": 128.5399932861328,
+    "duration": 113.44269,
+    "jacket": "jkt_005_100104",
+    "difficulties": {
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.0,
+        "officialFullCombo": 701,
+        "noteCounts": {
+          "tap": 215,
+          "flick": 57,
+          "trace": 0,
+          "long": 102
+        },
+        "rawFile": "raw/0104_03_expert.json",
+        "otonoteFile": "otonote/music_0104_expert.json",
+        "gameChartFile": "ournotes_game/chart_0104_expert.json"
+      },
+      "hard": {
+        "level": 17,
+        "displayLevel": 17.0,
+        "officialFullCombo": 520,
+        "noteCounts": {
+          "tap": 185,
+          "flick": 2,
+          "trace": 0,
+          "long": 83
+        },
+        "rawFile": "raw/0104_02_hard.json",
+        "otonoteFile": "otonote/music_0104_hard.json",
+        "gameChartFile": "ournotes_game/chart_0104_hard.json"
+      },
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 322,
+        "noteCounts": {
+          "tap": 100,
+          "flick": 0,
+          "trace": 0,
+          "long": 44
+        },
+        "rawFile": "raw/0104_01_normal.json",
+        "otonoteFile": "otonote/music_0104_normal.json",
+        "gameChartFile": "ournotes_game/chart_0104_normal.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 242,
+        "noteCounts": {
+          "tap": 74,
+          "flick": 0,
+          "trace": 0,
+          "long": 35
+        },
+        "rawFile": "raw/0104_00_easy.json",
+        "otonoteFile": "otonote/music_0104_easy.json",
+        "gameChartFile": "ournotes_game/chart_0104_easy.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 31.57,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0104.zip",
+    "packageSize": 1970377
+  },
+  {
+    "musicId": 105,
+    "title": "ホワイトノイズ",
+    "subtitle": "Official Track #0105",
+    "band": "MyGO!!!!!",
+    "lyricist": "藤原 聡",
+    "composer": "藤原 聡",
+    "arranger": "小木岳司",
+    "bpm": 143.0,
+    "duration": 121.678322,
+    "jacket": "jkt_001_100105",
+    "difficulties": {
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 450,
+        "noteCounts": {
+          "tap": 120,
+          "flick": 0,
+          "trace": 0,
+          "long": 52
+        },
+        "rawFile": "raw/0105_01_normal.json",
+        "otonoteFile": "otonote/music_0105_normal.json",
+        "gameChartFile": "ournotes_game/chart_0105_normal.json"
+      },
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 621,
+        "noteCounts": {
+          "tap": 212,
+          "flick": 5,
+          "trace": 0,
+          "long": 66
+        },
+        "rawFile": "raw/0105_02_hard.json",
+        "otonoteFile": "otonote/music_0105_hard.json",
+        "gameChartFile": "ournotes_game/chart_0105_hard.json"
+      },
+      "expert": {
+        "level": 24,
+        "displayLevel": 24.0,
+        "officialFullCombo": 769,
+        "noteCounts": {
+          "tap": 366,
+          "flick": 13,
+          "trace": 0,
+          "long": 91
+        },
+        "rawFile": "raw/0105_03_expert.json",
+        "otonoteFile": "otonote/music_0105_expert.json",
+        "gameChartFile": "ournotes_game/chart_0105_expert.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 304,
+        "noteCounts": {
+          "tap": 58,
+          "flick": 0,
+          "trace": 0,
+          "long": 26
+        },
+        "rawFile": "raw/0105_00_easy.json",
+        "otonoteFile": "otonote/music_0105_easy.json",
+        "gameChartFile": "ournotes_game/chart_0105_easy.json"
+      }
+    },
+    "previewStartTime": 92.84,
+    "previewEndTime": 123.19,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0105.zip",
+    "packageSize": 2274976
+  },
+  {
+    "musicId": 106,
+    "title": "Keep on Riddim",
+    "subtitle": "Official Track #0106",
+    "band": "一家Dumb Rock!",
+    "lyricist": "瀬名水紀(Dream Monster)",
+    "composer": "瀬名水紀(Dream Monster)",
+    "arranger": "瀬名水紀(Dream Monster)",
+    "bpm": 214.0,
+    "duration": 128.551402,
+    "jacket": "jkt_005_100106",
+    "difficulties": {
+      "expert": {
+        "level": 27,
+        "displayLevel": 27.0,
+        "officialFullCombo": 1061,
+        "noteCounts": {
+          "tap": 333,
+          "flick": 112,
+          "trace": 0,
+          "long": 127
+        },
+        "rawFile": "raw/0106_03_expert.json",
+        "otonoteFile": "otonote/music_0106_expert.json",
+        "gameChartFile": "ournotes_game/chart_0106_expert.json"
+      },
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 672,
+        "noteCounts": {
+          "tap": 151,
+          "flick": 0,
+          "trace": 0,
+          "long": 64
+        },
+        "rawFile": "raw/0106_01_normal.json",
+        "otonoteFile": "otonote/music_0106_normal.json",
+        "gameChartFile": "ournotes_game/chart_0106_normal.json"
+      },
+      "easy": {
+        "level": 9,
+        "displayLevel": 9.0,
+        "officialFullCombo": 411,
+        "noteCounts": {
+          "tap": 83,
+          "flick": 0,
+          "trace": 0,
+          "long": 28
+        },
+        "rawFile": "raw/0106_00_easy.json",
+        "otonoteFile": "otonote/music_0106_easy.json",
+        "gameChartFile": "ournotes_game/chart_0106_easy.json"
+      },
+      "hard": {
+        "level": 22,
+        "displayLevel": 22.0,
+        "officialFullCombo": 913,
+        "noteCounts": {
+          "tap": 208,
+          "flick": 42,
+          "trace": 0,
+          "long": 105
+        },
+        "rawFile": "raw/0106_02_hard.json",
+        "otonoteFile": "otonote/music_0106_hard.json",
+        "gameChartFile": "ournotes_game/chart_0106_hard.json"
+      }
+    },
+    "previewStartTime": 100.5,
+    "previewEndTime": 131.01,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0106.zip",
+    "packageSize": 2353746
+  },
+  {
+    "musicId": 107,
+    "title": "Abracadabra",
+    "subtitle": "Official Track #0107",
+    "band": "Ave Mujica",
+    "lyricist": "Lady Gaga,Andrew Watt,Henry Russell Walter,Susan Ballion,Steven Severin,John McGeoch,Peter Edward Clarke",
+    "composer": "Lady Gaga,Andrew Watt,Henry Russell Walter,Susan Ballion,Steven Severin,John McGeoch,Peter Edward Clarke",
+    "arranger": "長谷川大介(SUPA LOVE)",
+    "bpm": 126.0,
+    "duration": 144.761905,
+    "jacket": "jkt_002_100107",
+    "difficulties": {
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 646,
+        "noteCounts": {
+          "tap": 216,
+          "flick": 70,
+          "trace": 0,
+          "long": 73
+        },
+        "rawFile": "raw/0107_02_hard.json",
+        "otonoteFile": "otonote/music_0107_hard.json",
+        "gameChartFile": "ournotes_game/chart_0107_hard.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.9,
+        "officialFullCombo": 960,
+        "noteCounts": {
+          "tap": 521,
+          "flick": 80,
+          "trace": 0,
+          "long": 85
+        },
+        "rawFile": "raw/0107_03_expert.json",
+        "otonoteFile": "otonote/music_0107_expert.json",
+        "gameChartFile": "ournotes_game/chart_0107_expert.json"
+      },
+      "normal": {
+        "level": 12,
+        "displayLevel": 12.0,
+        "officialFullCombo": 499,
+        "noteCounts": {
+          "tap": 151,
+          "flick": 0,
+          "trace": 0,
+          "long": 62
+        },
+        "rawFile": "raw/0107_01_normal.json",
+        "otonoteFile": "otonote/music_0107_normal.json",
+        "gameChartFile": "ournotes_game/chart_0107_normal.json"
+      },
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 320,
+        "noteCounts": {
+          "tap": 72,
+          "flick": 0,
+          "trace": 0,
+          "long": 40
+        },
+        "rawFile": "raw/0107_00_easy.json",
+        "otonoteFile": "otonote/music_0107_easy.json",
+        "gameChartFile": "ournotes_game/chart_0107_easy.json"
+      }
+    },
+    "previewStartTime": 41.88,
+    "previewEndTime": 66.55,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0107.zip",
+    "packageSize": 2674504
+  },
+  {
+    "musicId": 108,
+    "title": "Stellar Stellar",
+    "subtitle": "Official Track #0108",
+    "band": "millsage",
+    "lyricist": "星街すいせい",
+    "composer": "TAKU INOUE",
+    "arranger": "牧野太洋",
+    "bpm": 168.0,
+    "duration": 123.338683,
+    "jacket": "jkt_004_100108",
+    "difficulties": {
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.0,
+        "officialFullCombo": 926,
+        "noteCounts": {
+          "tap": 303,
+          "flick": 77,
+          "trace": 0,
+          "long": 102
+        },
+        "rawFile": "raw/0108_03_expert.json",
+        "otonoteFile": "otonote/music_0108_expert.json",
+        "gameChartFile": "ournotes_game/chart_0108_expert.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 511,
+        "noteCounts": {
+          "tap": 101,
+          "flick": 5,
+          "trace": 0,
+          "long": 65
+        },
+        "rawFile": "raw/0108_01_normal.json",
+        "otonoteFile": "otonote/music_0108_normal.json",
+        "gameChartFile": "ournotes_game/chart_0108_normal.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 341,
+        "noteCounts": {
+          "tap": 56,
+          "flick": 0,
+          "trace": 0,
+          "long": 25
+        },
+        "rawFile": "raw/0108_00_easy.json",
+        "otonoteFile": "otonote/music_0108_easy.json",
+        "gameChartFile": "ournotes_game/chart_0108_easy.json"
+      },
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 672,
+        "noteCounts": {
+          "tap": 215,
+          "flick": 22,
+          "trace": 0,
+          "long": 76
+        },
+        "rawFile": "raw/0108_02_hard.json",
+        "otonoteFile": "otonote/music_0108_hard.json",
+        "gameChartFile": "ournotes_game/chart_0108_hard.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 30.32,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0108.zip",
+    "packageSize": 2583165
+  },
+  {
+    "musicId": 109,
+    "title": "夢我夢中",
+    "subtitle": "Official Track #0109",
+    "band": "梦限大MewType",
+    "lyricist": "ケンモチヒデフミ",
+    "composer": "ケンモチヒデフミ",
+    "arranger": "ケンモチヒデフミ、Skye K",
+    "bpm": 153.0,
+    "duration": 103.137255,
+    "jacket": "jkt_003_100109",
+    "difficulties": {
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 600,
+        "noteCounts": {
+          "tap": 199,
+          "flick": 10,
+          "trace": 0,
+          "long": 137
+        },
+        "rawFile": "raw/0109_02_hard.json",
+        "otonoteFile": "otonote/music_0109_hard.json",
+        "gameChartFile": "ournotes_game/chart_0109_hard.json"
+      },
+      "normal": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 350,
+        "noteCounts": {
+          "tap": 98,
+          "flick": 1,
+          "trace": 0,
+          "long": 55
+        },
+        "rawFile": "raw/0109_01_normal.json",
+        "otonoteFile": "otonote/music_0109_normal.json",
+        "gameChartFile": "ournotes_game/chart_0109_normal.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 272,
+        "noteCounts": {
+          "tap": 32,
+          "flick": 0,
+          "trace": 0,
+          "long": 32
+        },
+        "rawFile": "raw/0109_00_easy.json",
+        "otonoteFile": "otonote/music_0109_easy.json",
+        "gameChartFile": "ournotes_game/chart_0109_easy.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.0,
+        "officialFullCombo": 759,
+        "noteCounts": {
+          "tap": 261,
+          "flick": 14,
+          "trace": 31,
+          "long": 145
+        },
+        "rawFile": "raw/0109_03_expert.json",
+        "otonoteFile": "otonote/music_0109_expert.json",
+        "gameChartFile": "ournotes_game/chart_0109_expert.json"
+      }
+    },
+    "previewStartTime": 27.81,
+    "previewEndTime": 57.8,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0109.zip",
+    "packageSize": 1851986
+  },
+  {
+    "musicId": 110,
+    "title": "カーネーションの咲く日に",
+    "subtitle": "Official Track #0110",
+    "band": "millsage",
+    "lyricist": "Aira",
+    "composer": "瀬名水紀(Dream Monster)、Aira",
+    "arranger": "瀬名水紀(Dream Monster)、Aira",
+    "bpm": 150.0,
+    "duration": 115.6,
+    "jacket": "jkt_004_100110",
+    "difficulties": {
+      "hard": {
+        "level": 20,
+        "displayLevel": 20.5,
+        "officialFullCombo": 719,
+        "noteCounts": {
+          "tap": 218,
+          "flick": 19,
+          "trace": 0,
+          "long": 94
+        },
+        "rawFile": "raw/0110_02_hard.json",
+        "otonoteFile": "otonote/music_0110_hard.json",
+        "gameChartFile": "ournotes_game/chart_0110_hard.json"
+      },
+      "normal": {
+        "level": 14,
+        "displayLevel": 14.0,
+        "officialFullCombo": 633,
+        "noteCounts": {
+          "tap": 125,
+          "flick": 0,
+          "trace": 0,
+          "long": 90
+        },
+        "rawFile": "raw/0110_01_normal.json",
+        "otonoteFile": "otonote/music_0110_normal.json",
+        "gameChartFile": "ournotes_game/chart_0110_normal.json"
+      },
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 300,
+        "noteCounts": {
+          "tap": 28,
+          "flick": 0,
+          "trace": 0,
+          "long": 30
+        },
+        "rawFile": "raw/0110_00_easy.json",
+        "otonoteFile": "otonote/music_0110_easy.json",
+        "gameChartFile": "ournotes_game/chart_0110_easy.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.5,
+        "officialFullCombo": 878,
+        "noteCounts": {
+          "tap": 339,
+          "flick": 58,
+          "trace": 0,
+          "long": 97
+        },
+        "rawFile": "raw/0110_03_expert.json",
+        "otonoteFile": "otonote/music_0110_expert.json",
+        "gameChartFile": "ournotes_game/chart_0110_expert.json"
+      }
+    },
+    "previewStartTime": 0.0,
+    "previewEndTime": 25.73,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0110.zip",
+    "packageSize": 2199685
+  },
+  {
+    "musicId": 111,
+    "title": "Odd Dice",
+    "subtitle": "Official Track #0111",
+    "band": "millsage",
+    "lyricist": "アザミ",
+    "composer": "アザミ",
+    "arranger": "アザミ",
+    "bpm": 165.0,
+    "duration": 117.073828,
+    "jacket": "jkt_004_100111",
+    "difficulties": {
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 225,
+        "noteCounts": {
+          "tap": 51,
+          "flick": 0,
+          "trace": 0,
+          "long": 15
+        },
+        "rawFile": "raw/0111_00_easy.json",
+        "otonoteFile": "otonote/music_0111_easy.json",
+        "gameChartFile": "ournotes_game/chart_0111_easy.json"
+      },
+      "normal": {
+        "level": 15,
+        "displayLevel": 15.0,
+        "officialFullCombo": 571,
+        "noteCounts": {
+          "tap": 96,
+          "flick": 0,
+          "trace": 0,
+          "long": 76
+        },
+        "rawFile": "raw/0111_01_normal.json",
+        "otonoteFile": "otonote/music_0111_normal.json",
+        "gameChartFile": "ournotes_game/chart_0111_normal.json"
+      },
+      "expert": {
+        "level": 28,
+        "displayLevel": 28.0,
+        "officialFullCombo": 965,
+        "noteCounts": {
+          "tap": 321,
+          "flick": 109,
+          "trace": 47,
+          "long": 80
+        },
+        "rawFile": "raw/0111_03_expert.json",
+        "otonoteFile": "otonote/music_0111_expert.json",
+        "gameChartFile": "ournotes_game/chart_0111_expert.json"
+      },
+      "hard": {
+        "level": 22,
+        "displayLevel": 22.0,
+        "officialFullCombo": 731,
+        "noteCounts": {
+          "tap": 294,
+          "flick": 0,
+          "trace": 0,
+          "long": 73
+        },
+        "rawFile": "raw/0111_02_hard.json",
+        "otonoteFile": "otonote/music_0111_hard.json",
+        "gameChartFile": "ournotes_game/chart_0111_hard.json"
+      }
+    },
+    "previewStartTime": 75.37,
+    "previewEndTime": 111.46,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0111.zip",
+    "packageSize": 2347440
+  },
+  {
+    "musicId": 112,
+    "title": "過去を喰らう",
+    "subtitle": "Official Track #0112",
+    "band": "MyGO!!!!!",
+    "lyricist": "カンザキイオリ  ",
+    "composer": "カンザキイオリ  ",
+    "arranger": "植木建象、神田ジョン（from PENGUIN RESEARCH）",
+    "bpm": 187.0,
+    "duration": 126.417112,
+    "jacket": "jkt_001_100112",
+    "difficulties": {
+      "easy": {
+        "level": 7,
+        "displayLevel": 7.0,
+        "officialFullCombo": 323,
+        "noteCounts": {
+          "tap": 55,
+          "flick": 0,
+          "trace": 0,
+          "long": 27
+        },
+        "rawFile": "raw/0112_00_easy.json",
+        "otonoteFile": "otonote/music_0112_easy.json",
+        "gameChartFile": "ournotes_game/chart_0112_easy.json"
+      },
+      "hard": {
+        "level": 19,
+        "displayLevel": 19.0,
+        "officialFullCombo": 917,
+        "noteCounts": {
+          "tap": 234,
+          "flick": 13,
+          "trace": 0,
+          "long": 192
+        },
+        "rawFile": "raw/0112_02_hard.json",
+        "otonoteFile": "otonote/music_0112_hard.json",
+        "gameChartFile": "ournotes_game/chart_0112_hard.json"
+      },
+      "normal": {
+        "level": 13,
+        "displayLevel": 13.0,
+        "officialFullCombo": 664,
+        "noteCounts": {
+          "tap": 166,
+          "flick": 0,
+          "trace": 0,
+          "long": 110
+        },
+        "rawFile": "raw/0112_01_normal.json",
+        "otonoteFile": "otonote/music_0112_normal.json",
+        "gameChartFile": "ournotes_game/chart_0112_normal.json"
+      },
+      "expert": {
+        "level": 25,
+        "displayLevel": 25.5,
+        "officialFullCombo": 1144,
+        "noteCounts": {
+          "tap": 476,
+          "flick": 54,
+          "trace": 0,
+          "long": 176
+        },
+        "rawFile": "raw/0112_03_expert.json",
+        "otonoteFile": "otonote/music_0112_expert.json",
+        "gameChartFile": "ournotes_game/chart_0112_expert.json"
+      }
+    },
+    "previewStartTime": 1.36,
+    "previewEndTime": 37.19,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0112.zip",
+    "packageSize": 2256677
+  },
+  {
+    "musicId": 113,
+    "title": "God's Blood",
+    "subtitle": "神の名を",
+    "band": "Ave Mujica",
+    "lyricist": "Diggy-MO’",
+    "composer": "Diggy-MO’, hisakuni(SUPA LOVE)",
+    "arranger": "Diggy-MO’",
+    "bpm": 200.0,
+    "duration": 116.25,
+    "jacket": "jkt_002_100113",
+    "difficulties": {
+      "easy": {
+        "level": 6,
+        "displayLevel": 6.0,
+        "officialFullCombo": 336,
+        "noteCounts": {
+          "tap": 47,
+          "flick": 0,
+          "trace": 0,
+          "long": 27
+        },
+        "rawFile": "raw/0113_00_easy.json",
+        "otonoteFile": "otonote/music_0113_easy.json",
+        "gameChartFile": "ournotes_game/chart_0113_easy.json"
+      },
+      "expert": {
+        "level": 26,
+        "displayLevel": 26.5,
+        "officialFullCombo": 846,
+        "noteCounts": {
+          "tap": 364,
+          "flick": 79,
+          "trace": 0,
+          "long": 98
+        },
+        "rawFile": "raw/0113_03_expert.json",
+        "otonoteFile": "otonote/music_0113_expert.json",
+        "gameChartFile": "ournotes_game/chart_0113_expert.json"
+      },
+      "hard": {
+        "level": 18,
+        "displayLevel": 18.0,
+        "officialFullCombo": 651,
+        "noteCounts": {
+          "tap": 149,
+          "flick": 39,
+          "trace": 0,
+          "long": 95
+        },
+        "rawFile": "raw/0113_02_hard.json",
+        "otonoteFile": "otonote/music_0113_hard.json",
+        "gameChartFile": "ournotes_game/chart_0113_hard.json"
+      },
+      "normal": {
+        "level": 11,
+        "displayLevel": 11.0,
+        "officialFullCombo": 449,
+        "noteCounts": {
+          "tap": 95,
+          "flick": 0,
+          "trace": 0,
+          "long": 44
+        },
+        "rawFile": "raw/0113_01_normal.json",
+        "otonoteFile": "otonote/music_0113_normal.json",
+        "gameChartFile": "ournotes_game/chart_0113_normal.json"
+      }
+    },
+    "previewStartTime": 37.95,
+    "previewEndTime": 81.95,
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0113.zip",
+    "packageSize": 2109501
+  }
+]
