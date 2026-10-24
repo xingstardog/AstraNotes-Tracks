@@ -70,8 +70,10 @@
     },
     "previewStartTime": 48.53,
     "previewEndTime": 76.51,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0001.zip",
-    "packageSize": 1665467
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0001.astrapkg",
+    "packageSize": 1665512,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 2,
@@ -144,8 +146,10 @@
     },
     "previewStartTime": 26.81,
     "previewEndTime": 51.16,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0002.zip",
-    "packageSize": 1756848
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0002.astrapkg",
+    "packageSize": 1756904,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 3,
@@ -218,8 +222,10 @@
     },
     "previewStartTime": 39.64,
     "previewEndTime": 73.39,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0003.zip",
-    "packageSize": 2200397
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0003.astrapkg",
+    "packageSize": 2200440,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 4,
@@ -292,8 +298,10 @@
     },
     "previewStartTime": 52.0,
     "previewEndTime": 78.28,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0004.zip",
-    "packageSize": 1789242
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0004.astrapkg",
+    "packageSize": 1789288,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 5,
@@ -366,8 +374,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 35.46,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0005.zip",
-    "packageSize": 1857039
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0005.astrapkg",
+    "packageSize": 1857080,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 6,
@@ -440,8 +450,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 40.85,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0006.zip",
-    "packageSize": 2363603
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0006.astrapkg",
+    "packageSize": 2363656,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 7,
@@ -514,8 +526,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 33.82,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0007.zip",
-    "packageSize": 2056120
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0007.astrapkg",
+    "packageSize": 2056168,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 8,
@@ -588,8 +602,10 @@
     },
     "previewStartTime": 39.19,
     "previewEndTime": 81.52,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0008.zip",
-    "packageSize": 2441362
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0008.astrapkg",
+    "packageSize": 2441416,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 9,
@@ -662,8 +678,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 33.05,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0009.zip",
-    "packageSize": 2506178
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0009.astrapkg",
+    "packageSize": 2506232,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 10,
@@ -736,8 +754,10 @@
     },
     "previewStartTime": 29.57,
     "previewEndTime": 62.25,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0010.zip",
-    "packageSize": 1814634
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0010.astrapkg",
+    "packageSize": 1814680,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 11,
@@ -810,8 +830,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 30.0,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0011.zip",
-    "packageSize": 1924162
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0011.astrapkg",
+    "packageSize": 1924216,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 12,
@@ -884,8 +906,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 34.16,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0012.zip",
-    "packageSize": 2191878
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0012.astrapkg",
+    "packageSize": 2191928,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 13,
@@ -958,8 +982,10 @@
     },
     "previewStartTime": 46.94,
     "previewEndTime": 78.94,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0013.zip",
-    "packageSize": 1842957
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0013.astrapkg",
+    "packageSize": 1843000,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 14,
@@ -1032,8 +1058,10 @@
     },
     "previewStartTime": 52.04,
     "previewEndTime": 88.01,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0014.zip",
-    "packageSize": 2105404
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0014.astrapkg",
+    "packageSize": 2105448,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 15,
@@ -1106,8 +1134,10 @@
     },
     "previewStartTime": 68.88,
     "previewEndTime": 106.0,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0015.zip",
-    "packageSize": 2976752
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0015.astrapkg",
+    "packageSize": 2976808,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 16,
@@ -1180,8 +1210,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 32.43,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0016.zip",
-    "packageSize": 1790412
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0016.astrapkg",
+    "packageSize": 1790456,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 17,
@@ -1254,8 +1286,10 @@
     },
     "previewStartTime": 104.47,
     "previewEndTime": 117.61,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0017.zip",
-    "packageSize": 2327807
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0017.astrapkg",
+    "packageSize": 2327848,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 18,
@@ -1328,8 +1362,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 25.04,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0018.zip",
-    "packageSize": 2098649
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0018.astrapkg",
+    "packageSize": 2098696,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 19,
@@ -1402,8 +1438,10 @@
     },
     "previewStartTime": 56.63,
     "previewEndTime": 83.93,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0019.zip",
-    "packageSize": 1722655
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0019.astrapkg",
+    "packageSize": 1722696,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 20,
@@ -1476,8 +1514,10 @@
     },
     "previewStartTime": 7.31,
     "previewEndTime": 34.56,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0020.zip",
-    "packageSize": 1773399
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0020.astrapkg",
+    "packageSize": 1773448,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 21,
@@ -1550,8 +1590,10 @@
     },
     "previewStartTime": 79.03,
     "previewEndTime": 109.04,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0021.zip",
-    "packageSize": 2531250
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0021.astrapkg",
+    "packageSize": 2531304,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 26,
@@ -1624,8 +1666,10 @@
     },
     "previewStartTime": 93.24,
     "previewEndTime": 115.35,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0026.zip",
-    "packageSize": 2344526
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0026.astrapkg",
+    "packageSize": 2344568,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 27,
@@ -1698,8 +1742,10 @@
     },
     "previewStartTime": 59.97,
     "previewEndTime": 97.09,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0027.zip",
-    "packageSize": 1880065
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0027.astrapkg",
+    "packageSize": 1880120,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 28,
@@ -1772,8 +1818,10 @@
     },
     "previewStartTime": 57.57,
     "previewEndTime": 86.98,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0028.zip",
-    "packageSize": 1761332
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0028.astrapkg",
+    "packageSize": 1761384,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 29,
@@ -1846,8 +1894,10 @@
     },
     "previewStartTime": 68.93,
     "previewEndTime": 102.8,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0029.zip",
-    "packageSize": 2105882
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0029.astrapkg",
+    "packageSize": 2105928,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 30,
@@ -1920,8 +1970,10 @@
     },
     "previewStartTime": 40.59,
     "previewEndTime": 75.81,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0030.zip",
-    "packageSize": 1990984
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0030.astrapkg",
+    "packageSize": 1991032,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 31,
@@ -1994,8 +2046,10 @@
     },
     "previewStartTime": 39.98,
     "previewEndTime": 67.7,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0031.zip",
-    "packageSize": 2421349
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0031.astrapkg",
+    "packageSize": 2421400,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 32,
@@ -2068,8 +2122,10 @@
     },
     "previewStartTime": 78.84,
     "previewEndTime": 118.87,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0032.zip",
-    "packageSize": 2664870
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0032.astrapkg",
+    "packageSize": 2664920,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 33,
@@ -2142,8 +2198,10 @@
     },
     "previewStartTime": 45.94,
     "previewEndTime": 83.04,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0033.zip",
-    "packageSize": 2773517
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0033.astrapkg",
+    "packageSize": 2773560,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 34,
@@ -2216,8 +2274,10 @@
     },
     "previewStartTime": 121.02,
     "previewEndTime": 146.05,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0034.zip",
-    "packageSize": 2966733
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0034.astrapkg",
+    "packageSize": 2966776,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 35,
@@ -2290,8 +2350,10 @@
     },
     "previewStartTime": 42.37,
     "previewEndTime": 78.63,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0035.zip",
-    "packageSize": 1797322
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0035.astrapkg",
+    "packageSize": 1797368,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 36,
@@ -2364,8 +2426,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 29.57,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0036.zip",
-    "packageSize": 2144187
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0036.astrapkg",
+    "packageSize": 2144232,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 37,
@@ -2438,8 +2502,10 @@
     },
     "previewStartTime": 80.22,
     "previewEndTime": 123.6,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0037.zip",
-    "packageSize": 2344456
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0037.astrapkg",
+    "packageSize": 2344504,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 38,
@@ -2512,8 +2578,10 @@
     },
     "previewStartTime": 66.29,
     "previewEndTime": 106.01,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0038.zip",
-    "packageSize": 2138419
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0038.astrapkg",
+    "packageSize": 2138472,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 39,
@@ -2586,8 +2654,10 @@
     },
     "previewStartTime": 79.34,
     "previewEndTime": 119.35,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0039.zip",
-    "packageSize": 2337350
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0039.astrapkg",
+    "packageSize": 2337400,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 40,
@@ -2660,8 +2730,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 36.71,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0040.zip",
-    "packageSize": 2114048
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0040.astrapkg",
+    "packageSize": 2114104,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 41,
@@ -2734,8 +2806,10 @@
     },
     "previewStartTime": 111.66,
     "previewEndTime": 134.38,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0041.zip",
-    "packageSize": 2239678
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0041.astrapkg",
+    "packageSize": 2239720,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 42,
@@ -2808,8 +2882,10 @@
     },
     "previewStartTime": 80.96,
     "previewEndTime": 121.99,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0042.zip",
-    "packageSize": 2228794
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0042.astrapkg",
+    "packageSize": 2228840,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 43,
@@ -2882,8 +2958,10 @@
     },
     "previewStartTime": 16.6,
     "previewEndTime": 46.38,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0043.zip",
-    "packageSize": 2114730
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0043.astrapkg",
+    "packageSize": 2114776,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 44,
@@ -2956,8 +3034,10 @@
     },
     "previewStartTime": 92.74,
     "previewEndTime": 117.16,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0044.zip",
-    "packageSize": 2240682
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0044.astrapkg",
+    "packageSize": 2240728,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 47,
@@ -3030,8 +3110,10 @@
     },
     "previewStartTime": 49.61,
     "previewEndTime": 79.17,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0047.zip",
-    "packageSize": 1870281
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0047.astrapkg",
+    "packageSize": 1870328,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 50,
@@ -3104,8 +3186,10 @@
     },
     "previewStartTime": 63.87,
     "previewEndTime": 93.55,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0050.zip",
-    "packageSize": 2167832
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0050.astrapkg",
+    "packageSize": 2167880,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 51,
@@ -3178,8 +3262,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 26.27,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0051.zip",
-    "packageSize": 2269834
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0051.astrapkg",
+    "packageSize": 2269880,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 52,
@@ -3252,8 +3338,10 @@
     },
     "previewStartTime": 55.44,
     "previewEndTime": 85.5,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0052.zip",
-    "packageSize": 2281167
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0052.astrapkg",
+    "packageSize": 2281208,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 53,
@@ -3326,8 +3414,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 30.07,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0053.zip",
-    "packageSize": 2317497
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0053.astrapkg",
+    "packageSize": 2317544,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 54,
@@ -3400,8 +3490,10 @@
     },
     "previewStartTime": 87.94,
     "previewEndTime": 102.49,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0054.zip",
-    "packageSize": 1972961
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0054.astrapkg",
+    "packageSize": 1973016,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 55,
@@ -3474,8 +3566,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 24.78,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0055.zip",
-    "packageSize": 2218775
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0055.astrapkg",
+    "packageSize": 2218824,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 56,
@@ -3548,8 +3642,10 @@
     },
     "previewStartTime": 57.25,
     "previewEndTime": 83.9,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0056.zip",
-    "packageSize": 1869652
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0056.astrapkg",
+    "packageSize": 1869704,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 57,
@@ -3622,8 +3718,10 @@
     },
     "previewStartTime": 34.94,
     "previewEndTime": 60.49,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0057.zip",
-    "packageSize": 1671933
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0057.astrapkg",
+    "packageSize": 1671976,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 58,
@@ -3696,8 +3794,10 @@
     },
     "previewStartTime": 46.38,
     "previewEndTime": 71.83,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0058.zip",
-    "packageSize": 1894827
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0058.astrapkg",
+    "packageSize": 1894872,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 59,
@@ -3770,8 +3870,10 @@
     },
     "previewStartTime": 89.29,
     "previewEndTime": 102.01,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0059.zip",
-    "packageSize": 2017155
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0059.astrapkg",
+    "packageSize": 2017208,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 60,
@@ -3844,8 +3946,10 @@
     },
     "previewStartTime": 93.5,
     "previewEndTime": 105.16,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0060.zip",
-    "packageSize": 2179105
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0060.astrapkg",
+    "packageSize": 2179160,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 61,
@@ -3918,8 +4022,10 @@
     },
     "previewStartTime": 56.85,
     "previewEndTime": 82.82,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0061.zip",
-    "packageSize": 1764442
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0061.astrapkg",
+    "packageSize": 1764488,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 62,
@@ -3992,8 +4098,10 @@
     },
     "previewStartTime": 75.67,
     "previewEndTime": 100.01,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0062.zip",
-    "packageSize": 1940957
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0062.astrapkg",
+    "packageSize": 1941000,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 63,
@@ -4066,8 +4174,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 30.8,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0063.zip",
-    "packageSize": 1879781
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0063.astrapkg",
+    "packageSize": 1879832,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 64,
@@ -4140,8 +4250,10 @@
     },
     "previewStartTime": 81.29,
     "previewEndTime": 104.52,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0064.zip",
-    "packageSize": 1857258
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0064.astrapkg",
+    "packageSize": 1857304,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 66,
@@ -4214,8 +4326,10 @@
     },
     "previewStartTime": 91.7,
     "previewEndTime": 112.28,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0066.zip",
-    "packageSize": 2023973
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0066.astrapkg",
+    "packageSize": 2024024,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 69,
@@ -4288,8 +4402,10 @@
     },
     "previewStartTime": 28.66,
     "previewEndTime": 54.06,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0069.zip",
-    "packageSize": 2184680
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0069.astrapkg",
+    "packageSize": 2184728,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 70,
@@ -4362,8 +4478,10 @@
     },
     "previewStartTime": 34.64,
     "previewEndTime": 62.5,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0070.zip",
-    "packageSize": 2546925
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0070.astrapkg",
+    "packageSize": 2546968,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 71,
@@ -4436,8 +4554,10 @@
     },
     "previewStartTime": 18.94,
     "previewEndTime": 51.23,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0071.zip",
-    "packageSize": 1860120
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0071.astrapkg",
+    "packageSize": 1860168,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 72,
@@ -4510,8 +4630,10 @@
     },
     "previewStartTime": 73.6,
     "previewEndTime": 95.29,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0072.zip",
-    "packageSize": 1824428
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0072.astrapkg",
+    "packageSize": 1824472,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 74,
@@ -4584,8 +4706,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 44.88,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0074.zip",
-    "packageSize": 2343759
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0074.astrapkg",
+    "packageSize": 2343800,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 75,
@@ -4658,8 +4782,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 28.0,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0075.zip",
-    "packageSize": 1652766
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0075.astrapkg",
+    "packageSize": 1652808,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 76,
@@ -4732,8 +4858,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 16.94,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0076.zip",
-    "packageSize": 2109561
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0076.astrapkg",
+    "packageSize": 2109608,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 80,
@@ -4806,8 +4934,10 @@
     },
     "previewStartTime": 48.41,
     "previewEndTime": 78.07,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0080.zip",
-    "packageSize": 2005612
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0080.astrapkg",
+    "packageSize": 2005656,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 81,
@@ -4880,8 +5010,10 @@
     },
     "previewStartTime": 51.33,
     "previewEndTime": 80.9,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0081.zip",
-    "packageSize": 1901729
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0081.astrapkg",
+    "packageSize": 1901784,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 82,
@@ -4954,8 +5086,10 @@
     },
     "previewStartTime": 62.89,
     "previewEndTime": 99.67,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0082.zip",
-    "packageSize": 2154090
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0082.astrapkg",
+    "packageSize": 2154136,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 83,
@@ -5028,8 +5162,10 @@
     },
     "previewStartTime": 56.5,
     "previewEndTime": 92.11,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0083.zip",
-    "packageSize": 2039619
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0083.astrapkg",
+    "packageSize": 2039672,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 85,
@@ -5102,8 +5238,10 @@
     },
     "previewStartTime": 55.42,
     "previewEndTime": 76.67,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0085.zip",
-    "packageSize": 2203026
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0085.astrapkg",
+    "packageSize": 2203080,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 87,
@@ -5176,8 +5314,10 @@
     },
     "previewStartTime": 74.71,
     "previewEndTime": 109.19,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0087.zip",
-    "packageSize": 2232168
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0087.astrapkg",
+    "packageSize": 2232216,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 88,
@@ -5250,8 +5390,10 @@
     },
     "previewStartTime": 43.6,
     "previewEndTime": 64.33,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0088.zip",
-    "packageSize": 2387959
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0088.astrapkg",
+    "packageSize": 2388008,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 91,
@@ -5324,8 +5466,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 32.43,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0091.zip",
-    "packageSize": 2150108
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0091.astrapkg",
+    "packageSize": 2150152,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 92,
@@ -5398,8 +5542,10 @@
     },
     "previewStartTime": 75.73,
     "previewEndTime": 98.83,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0092.zip",
-    "packageSize": 1743865
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0092.astrapkg",
+    "packageSize": 1743912,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 93,
@@ -5472,8 +5618,10 @@
     },
     "previewStartTime": 90.6,
     "previewEndTime": 123.05,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0093.zip",
-    "packageSize": 2564253
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0093.astrapkg",
+    "packageSize": 2564296,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 94,
@@ -5546,8 +5694,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 32.21,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0094.zip",
-    "packageSize": 2356036
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0094.astrapkg",
+    "packageSize": 2356088,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 95,
@@ -5620,8 +5770,10 @@
     },
     "previewStartTime": 118.87,
     "previewEndTime": 137.01,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0095.zip",
-    "packageSize": 2583968
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0095.astrapkg",
+    "packageSize": 2584024,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 96,
@@ -5694,8 +5846,10 @@
     },
     "previewStartTime": 55.76,
     "previewEndTime": 78.38,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0096.zip",
-    "packageSize": 1880647
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0096.astrapkg",
+    "packageSize": 1880696,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 97,
@@ -5768,8 +5922,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 32.15,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0097.zip",
-    "packageSize": 2103517
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0097.astrapkg",
+    "packageSize": 2103560,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 98,
@@ -5842,8 +5998,10 @@
     },
     "previewStartTime": 103.22,
     "previewEndTime": 126.55,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0098.zip",
-    "packageSize": 2329966
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0098.astrapkg",
+    "packageSize": 2330008,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 104,
@@ -5916,8 +6074,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 31.57,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0104.zip",
-    "packageSize": 1970377
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0104.astrapkg",
+    "packageSize": 1970424,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 105,
@@ -5990,8 +6150,10 @@
     },
     "previewStartTime": 92.84,
     "previewEndTime": 123.19,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0105.zip",
-    "packageSize": 2274976
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0105.astrapkg",
+    "packageSize": 2275032,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 106,
@@ -6064,8 +6226,10 @@
     },
     "previewStartTime": 100.5,
     "previewEndTime": 131.01,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0106.zip",
-    "packageSize": 2353746
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0106.astrapkg",
+    "packageSize": 2353800,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 107,
@@ -6138,8 +6302,10 @@
     },
     "previewStartTime": 41.88,
     "previewEndTime": 66.55,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0107.zip",
-    "packageSize": 2674504
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0107.astrapkg",
+    "packageSize": 2674552,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 108,
@@ -6212,8 +6378,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 30.32,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0108.zip",
-    "packageSize": 2583165
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0108.astrapkg",
+    "packageSize": 2583208,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 109,
@@ -6286,8 +6454,10 @@
     },
     "previewStartTime": 27.81,
     "previewEndTime": 57.8,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0109.zip",
-    "packageSize": 1851986
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0109.astrapkg",
+    "packageSize": 1852040,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 110,
@@ -6360,8 +6530,10 @@
     },
     "previewStartTime": 0.0,
     "previewEndTime": 25.73,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0110.zip",
-    "packageSize": 2199685
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0110.astrapkg",
+    "packageSize": 2199736,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 111,
@@ -6434,8 +6606,10 @@
     },
     "previewStartTime": 75.37,
     "previewEndTime": 111.46,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0111.zip",
-    "packageSize": 2347440
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0111.astrapkg",
+    "packageSize": 2347496,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 112,
@@ -6508,8 +6682,10 @@
     },
     "previewStartTime": 1.36,
     "previewEndTime": 37.19,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0112.zip",
-    "packageSize": 2256677
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0112.astrapkg",
+    "packageSize": 2256728,
+    "format": "astrapkg",
+    "encrypted": true
   },
   {
     "musicId": 113,
@@ -6582,7 +6758,9 @@
     },
     "previewStartTime": 37.95,
     "previewEndTime": 81.95,
-    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0113.zip",
-    "packageSize": 2109501
+    "downloadUrl": "https://github.com/xingstardog/AstraNotes-Tracks/releases/download/v1.0.0/music_0113.astrapkg",
+    "packageSize": 2109544,
+    "format": "astrapkg",
+    "encrypted": true
   }
 ]
